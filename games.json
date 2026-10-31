@@ -1,0 +1,4462 @@
+{
+    "PPSA34502": {
+        "name": "Call of Duty: Black Ops II",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/10/Call-of-Duty-Black-Ops-II-PS5.jpg"
+    },
+    "PPSA31217": {
+        "name": "萊莎的鍊金工房３ ～終結之鍊金術士與秘密鑰匙～ DX",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Atelier-Ryza-3-Alchemist-of-the-End-the-Secret-Key-DX-PS5.jpg"
+    },
+    "PPSA01982": {
+        "name": "DOOM Eternal",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p5n.jpg"
+    },
+    "PPSA21904": {
+        "name": "從前從前有個塊魂",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Once-Upon-A-Katamari-PS5.jpg"
+    },
+    "PPSA01521": {
+        "name": "Horizon Forbidden West",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7580.jpg"
+    },
+    "PPSA10508": {
+        "name": "Madden NFL 24",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/07/Madden-NFL-24-PS5.jpg"
+    },
+    "PPSA20515": {
+        "name": "Enotria",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94ld.jpg"
+    },
+    "PPSA24191": {
+        "name": "Monster Hunter Wilds",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co904o.jpg"
+    },
+    "PPSA01576": {
+        "name": "Avatar: Frontiers of Pandora",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9oe3.jpg"
+    },
+    "PPSA24152": {
+        "name": "Potionomics: Masterwork Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tfi.jpg"
+    },
+    "PPSA11079": {
+        "name": "Ed-0: Zombie Uprising",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co74h7.jpg"
+    },
+    "PPSA08083": {
+        "name": "DRAGON BALL Z: KAKAROT",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kqa.jpg"
+    },
+    "PPSA11386": {
+        "name": "007 First Light Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/007_First_Light_DE.jpg"
+    },
+    "PPSA15706": {
+        "name": "15 in 1 Solitaire",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4i6a.jpg"
+    },
+    "PPSA02800": {
+        "name": "3D Billiards Pool and Snooker Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9kft.jpg"
+    },
+    "PPSA03647": {
+        "name": "3D MiniGolf",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2xon.jpg"
+    },
+    "PPSA04583": {
+        "name": "41 Hours",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jxo.jpg"
+    },
+    "PPSA21022": {
+        "name": "63 Days",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/63_Days.avif"
+    },
+    "PPSA05265": {
+        "name": "A Memoir Blue",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hep.jpg"
+    },
+    "PPSA02387": {
+        "name": "A Plague Tale Innocence",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lat.jpg"
+    },
+    "PPSA05366": {
+        "name": "A Plague Tale Requiem",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pwb.jpg"
+    },
+    "PPSA19007": {
+        "name": "A Quiet Place The Road Ahead",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gtp.jpg"
+    },
+    "PPSA19006": {
+        "name": "A Quiet Place: The Road Ahead",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gtp.jpg"
+    },
+    "PPSA22996": {
+        "name": "AAA Dynamic Scenes All Scenes Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co97k8.jpg"
+    },
+    "PPSA04366": {
+        "name": "Abandoned Realtime Trailers Demo",
+        "image": "https://www.superpsx.com/wp-content/uploads/2025/02/Abandoned-Realtime-Trailers-Demo-PS5.png"
+    },
+    "PPSA28311": {
+        "name": "Absolum",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coatin.jpg"
+    },
+    "PPSA_00026": {
+        "name": "Absolute TacticsDaughters of Mercy",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Absolute-Tactics-Daughters-of-Mercy-PS4-PKG.jpg"
+    },
+    "PPSA10600": {
+        "name": "Ad Infinitum",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z4d.jpg"
+    },
+    "PPSA04109": {
+        "name": "Aeterna Noctis",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobt6p.jpg"
+    },
+    "PPSA09351": {
+        "name": "AEW Fight Forever",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/AEW_Fight_Forever.jpg"
+    },
+    "PPSA10602": {
+        "name": "After The Fall",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4a5m.jpg"
+    },
+    "PPSA14053": {
+        "name": "Afterimage",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8o70.jpg"
+    },
+    "PPSA27765": {
+        "name": "Agatha Christie Death on The Nile",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9cx6.jpg"
+    },
+    "PPSA27366": {
+        "name": "AI LIMIT",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/AI_LIMIT.avif"
+    },
+    "PPSA02572": {
+        "name": "Alan Wake 2 Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jar.jpg"
+    },
+    "PPSA01924": {
+        "name": "Alan Wake Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65aa.jpg"
+    },
+    "PPSA02664": {
+        "name": "Alex Kidd in Miracle World DX",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3c4f.jpg"
+    },
+    "PPSA06448": {
+        "name": "Alien Rogue Incursion",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa02k.jpg"
+    },
+    "PPSA08312": {
+        "name": "Aliens Dark Descent",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6liu.jpg"
+    },
+    "PPSA03393": {
+        "name": "Aliens Fireteam Elite",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gu0.jpg"
+    },
+    "PPSA08135": {
+        "name": "Alone In The Dark",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1g8.jpg"
+    },
+    "PPSA08240": {
+        "name": "Alone in the Dark",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1g8.jpg"
+    },
+    "PPSA24515": {
+        "name": "Alone in The Dark 2 1996",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Alone_in_The_Dark_2_1996.webp"
+    },
+    "PPSA03596": {
+        "name": "Among Us",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6kqt.jpg"
+    },
+    "PPSA22520": {
+        "name": "Animal Well",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Animal_Well.avif"
+    },
+    "PPSA04716": {
+        "name": "Anno 1800 Console Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69jr.jpg"
+    },
+    "PPSA20423": {
+        "name": "Another Crabs Treasure",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coam1a.jpg"
+    },
+    "PPSA11132": {
+        "name": "Ape Academy 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9zg7.jpg"
+    },
+    "PPSA06320": {
+        "name": "Ape Escape",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4t63.jpg"
+    },
+    "PPSA11128": {
+        "name": "Ape Escape P",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ape_Escape_P.avif"
+    },
+    "PPSA03084": {
+        "name": "Apsulov: End of Gods",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1h60.jpg"
+    },
+    "PPSA02491": {
+        "name": "Aragami 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lk1.jpg"
+    },
+    "PPSA19015": {
+        "name": "Arcade Game Zone",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8cmy.jpg"
+    },
+    "PPSA06409": {
+        "name": "Arcade Spirits The New Challengers",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4if8.jpg"
+    },
+    "PPSA04020": {
+        "name": "Arcadegeddon",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6qk6.jpg"
+    },
+    "PPSA21406": {
+        "name": "ArcRunner",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6aj6.jpg"
+    },
+    "PPSA17011": {
+        "name": "Arizona Sunshine 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jbo.jpg"
+    },
+    "PPSA21738": {
+        "name": "Arizona Sunshine Remake",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8oqh.jpg"
+    },
+    "PPSA16810": {
+        "name": "ARK Survival Ascended",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/ARK_Survival_Ascended.avif"
+    },
+    "PPSA17101": {
+        "name": "ARK: Survival Ascended",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ace.jpg"
+    },
+    "PPSA06328": {
+        "name": "Arkanoid Eternal Battle Limited Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p7e.jpg"
+    },
+    "PPSA06774": {
+        "name": "Armored Core 6 Fires of Rubicon",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc408.jpg"
+    },
+    "PPSA03686": {
+        "name": "Art of Rally",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Art_of_Rally.avif"
+    },
+    "PPSA03659": {
+        "name": "Art of Rally",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gys.jpg"
+    },
+    "PPSA28183": {
+        "name": "Assassins Creed Black Flag Resynced Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/AC_Black_Flag_Resynced_DE.avif"
+    },
+    "PPSA07230": {
+        "name": "Assassins Creed Mirage",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99lp.jpg"
+    },
+    "PPSA20397": {
+        "name": "Assassins Creed Shadows",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co87cu.jpg"
+    },
+    "PPSA20396": {
+        "name": "Assassins Creed Shadows",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co87cu.jpg"
+    },
+    "PPSA01490": {
+        "name": "Assassins Creed Valhalla",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ed3.jpg"
+    },
+    "PPSA01491": {
+        "name": "Assassins Creed Valhalla",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/06/2-bh.jpg"
+    },
+    "PPSA01532": {
+        "name": "Assassins Creed Valhalla Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coavvn.jpg"
+    },
+    "PPSA03847": {
+        "name": "Assetto Corsa Competizione",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co790d.jpg"
+    },
+    "PPSA08194": {
+        "name": "Asterigos Curse of The Stars",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6gs.jpg"
+    },
+    "PPSA07653": {
+        "name": "Asterigos: Curse of the Stars",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6gs.jpg"
+    },
+    "PPSA30490": {
+        "name": "Asterix and Obelix Babylon Mission",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa73p.jpg"
+    },
+    "PPSA16709": {
+        "name": "Asterix and Obelix Heroes",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co76fz.jpg"
+    },
+    "PPSA08576": {
+        "name": "Asterix and Obelix Slap Them All",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pxk.jpg"
+    },
+    "PPSA16746": {
+        "name": "Asterix and Obelix Slap Them All 2",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Asterix_and_Obelix_Slap_Them_All_2.jpg"
+    },
+    "PPSA08164": {
+        "name": "Asterix and Obelix XXL 2",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Asterix_and_Obelix_XXL_2.avif"
+    },
+    "PPSA07498": {
+        "name": "Asterix and Obelix XXL 3 The Crystal Menhir",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Asterix_and_Obelix_XXL_3.avif"
+    },
+    "PPSA08162": {
+        "name": "Asterix and Obelix XXL Romastered",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Asterix_and_Obelix_XXL_Romastered.jpg"
+    },
+    "PPSA08448": {
+        "name": "Asterix and Obelix XXXL The Ram From Hibernia",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5g8v.jpg"
+    },
+    "PPSA03174": {
+        "name": "Astria Ascending",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3h94.jpg"
+    },
+    "PPSA21564": {
+        "name": "ASTRO BOT",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba3k.jpg"
+    },
+    "PPSA21567": {
+        "name": "ASTRO BOT",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba3k.jpg"
+    },
+    "PPSA01325": {
+        "name": "Astros Playroom",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hb4.jpg"
+    },
+    "PPSA08601": {
+        "name": "Atari 50 The Anniversary Celebration Expanded Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4xgf.jpg"
+    },
+    "PPSA10906": {
+        "name": "Atelier Marie Remake The Alchemist of Salburg",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Atelier Marie Remake The Alchemist of Salburg.avif"
+    },
+    "PPSA26791": {
+        "name": "Atelier Resleriana The Red Alchemist and The White Guardian",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/5-bcd.jpg"
+    },
+    "PPSA31215": {
+        "name": "Atelier Ryza 2 Lost Legends & the Secret Fairy DX",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Atelier-Ryza-2-Lost-Legends-the-Secret-Fairy-DX-PS5.jpg"
+    },
+    "PPSA30304": {
+        "name": "Atelier Ryza: Ever Darkness & the Secret Hideout DX",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Atelier-Ryza-Ever-Darkness-the-Secret-Hideout-DX-PS5.jpg"
+    },
+    "PPSA03388": {
+        "name": "Atlas Fallen",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co546f.jpg"
+    },
+    "PPSA15493": {
+        "name": "Atomfall Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9dar.jpg"
+    },
+    "PPSA10696": {
+        "name": "Atomic Heart",
+        "image": "https://dlpsgame.com/wp-content/uploads/2025/04/3-3.jpg"
+    },
+    "PPSA10695": {
+        "name": "Atomic Heart Premium Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68ag.jpg"
+    },
+    "PPSA01575": {
+        "name": "Avatar Frontiers of Pandora Complete Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Avatar_Frontiers_of_Pandora_CE.avif"
+    },
+    "PPSA04341": {
+        "name": "Avatar The Last Airbender Quest for Balance",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co73q2.jpg"
+    },
+    "PPSA26136": {
+        "name": "Avowed",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/12-swx.jpg"
+    },
+    "PPSA04702": {
+        "name": "Away The Survival Series",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2uox.jpg"
+    },
+    "PPSA01696": {
+        "name": "Back 4 Blood",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mhj.jpg"
+    },
+    "PPSA01695": {
+        "name": "Back 4 Blood Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mhj.jpg"
+    },
+    "PPSA02058": {
+        "name": "Balan Wonderworld",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Balan_Wonderworld.avif"
+    },
+    "PPSA02057": {
+        "name": "Balan Wonderworld",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2xxs.jpg"
+    },
+    "PPSA14002": {
+        "name": "Baldurs Gate 3 Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h9p.jpg"
+    },
+    "PPSA18463": {
+        "name": "Baldur’s Gate 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h9p.jpg"
+    },
+    "PPSA10053": {
+        "name": "Banishers Ghosts of New Eden",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lmo.jpg"
+    },
+    "PPSA17465": {
+        "name": "Barbie Project Friendship",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8mjz.jpg"
+    },
+    "PPSA04071": {
+        "name": "Bassmaster Fishing 2022",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3zg6.jpg"
+    },
+    "PPSA19534": {
+        "name": "Battlefield 6",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Battlefield_6.avif"
+    },
+    "PPSA29343": {
+        "name": "Beast of Reincarnation Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Beast_of_Reincarnation_Deluxe_Edition.avif"
+    },
+    "PPSA15035": {
+        "name": "Beat Saber",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jbq.jpg"
+    },
+    "PPSA27624": {
+        "name": "Bendy and the Dark Revival",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co683q.jpg"
+    },
+    "PPSA27616": {
+        "name": "Bendy and The Ink Machine",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67zs.jpg"
+    },
+    "PPSA28609": {
+        "name": "Bendy Lone Wolf",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Bendy_Lone_Wolf.avif"
+    },
+    "PPSA27640": {
+        "name": "Beneath",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafyx.jpg"
+    },
+    "PPSA03979": {
+        "name": "Beyond a Steel Sky",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2d63.jpg"
+    },
+    "PPSA08705": {
+        "name": "Beyond Good and Evil 20th Anniversary Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8eda.jpg"
+    },
+    "PPSA02604": {
+        "name": "Bibi and Tina At The Horse Farm",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co31rv.jpg"
+    },
+    "PPSA19943": {
+        "name": "Big Helmet Heroes",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Big_Helmet_Heroes.avif"
+    },
+    "PPSA07413": {
+        "name": "BIOHAZARD RE:4",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/02/BIOHAZARD-RE-4-PS5.png"
+    },
+    "PPSA06255": {
+        "name": "Biomutant",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rse.jpg"
+    },
+    "PPSA06254": {
+        "name": "Biomutant",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rse.jpg"
+    },
+    "PPSA23226": {
+        "name": "Black Myth Wukong Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8h3y.jpg"
+    },
+    "PPSA22420": {
+        "name": "Blacksad Under The Skin",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Blacksad_Under_The_Skin.avif"
+    },
+    "PPSA03469": {
+        "name": "Blackwind",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3mca.jpg"
+    },
+    "PPSA26311": {
+        "name": "Blades of Fire Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gvk.jpg"
+    },
+    "PPSA13579": {
+        "name": "Blasphemous 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4qw.jpg"
+    },
+    "PPSA13580": {
+        "name": "Blasphemous II",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ej3.jpg"
+    },
+    "PPSA29714": {
+        "name": "BlazBlue Entropy Effect X Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coatzb.jpg"
+    },
+    "PPSA08408": {
+        "name": "Blazing Strike",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Blazing_Strike.avif"
+    },
+    "PPSA03639": {
+        "name": "BLEACH Rebirth of Souls Ultimate Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/BLEACH_Rebirth_of_Souls_Ultimate_Edition.avif"
+    },
+    "PPSA22299": {
+        "name": "Bleak Faith Forsaken",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3mcx.jpg"
+    },
+    "PPSA08555": {
+        "name": "Blood Bowl III",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4bof.jpg"
+    },
+    "PPSA03364": {
+        "name": "BloodRayne Betrayal: Fresh Bites",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39xm.jpg"
+    },
+    "PPSA05916": {
+        "name": "BloodRayne Revamped",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/BloodRayne_Revamped.jpg"
+    },
+    "PPSA05975": {
+        "name": "BloodRayne Revamped 2",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/BloodRayne_Revamped_2.avif"
+    },
+    "PPSA25009": {
+        "name": "Blue Prince",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9mzd.jpg"
+    },
+    "PPSA01462": {
+        "name": "Borderlands 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kg9.jpg"
+    },
+    "PPSA01494": {
+        "name": "Borderlands 4",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9zuq.jpg"
+    },
+    "PPSA14457": {
+        "name": "Born of Bread",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ahs.jpg"
+    },
+    "PPSA19446": {
+        "name": "Boti Byteland Overclocked",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Boti_Byteland_Overclocked.avif"
+    },
+    "PPSA09426": {
+        "name": "Bramble The Mountain King",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6f01.jpg"
+    },
+    "PPSA04243": {
+        "name": "Breathedge",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wvo.jpg"
+    },
+    "PPSA14501": {
+        "name": "Brothers A Tale of Two Sons Remake",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2zm.jpg"
+    },
+    "PPSA26356": {
+        "name": "BUBBLE BOBBLE Sugar Dungeons",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/BUBBLE_BOBBLE_Sugar_Dungeons.jpeg"
+    },
+    "PPSA15929": {
+        "name": "Bud Spencer Terence Hill Slaps And Beans 2",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Bud_Spencer_Terence_Hill_Slaps_And_Beans_2.avif"
+    },
+    "PPSA01503": {
+        "name": "Bugsnax",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co45t5.jpg"
+    },
+    "PPSA01502": {
+        "name": "Bugsnax",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co45t5.jpg"
+    },
+    "PPSA19624": {
+        "name": "Bum Simulator",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2m6r.jpg"
+    },
+    "PPSA22924": {
+        "name": "Bye Sweet Carole",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coanb6.jpg"
+    },
+    "PPSA01628": {
+        "name": "Call of Duty Black Ops Cold War",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Call_of_Duty_Cold_War.jpg"
+    },
+    "PPSA23012": {
+        "name": "Call of Duty Modern Warfare 2",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Call_of_Duty_Modern_Warfare_2.jpg"
+    },
+    "PPSA01649": {
+        "name": "Call of Duty Modern Warfare 3",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/CoD_MW3.avif"
+    },
+    "PPSA01687": {
+        "name": "Call of Duty Vanguard",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Call_of_Duty_Vanguard.avif"
+    },
+    "PPSA01546": {
+        "name": "Call of The Sea",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ir4.jpg"
+    },
+    "PPSA02743": {
+        "name": "Cant Drive This",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Cant_Drive_This.webp"
+    },
+    "PPSA22728": {
+        "name": "Captain Tsubasa 2 World Fighters",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/6-bfc.jpg"
+    },
+    "PPSA25256": {
+        "name": "Carmen Sandiego Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Carmen_Sandiego_Deluxe_Edition.avif"
+    },
+    "PPSA15645": {
+        "name": "Castlevania Dominus Collection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9xk.jpg"
+    },
+    "PPSA15065": {
+        "name": "Cat Quest 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8cp4.jpg"
+    },
+    "PPSA08479": {
+        "name": "Cave Digger 2 Dig Harder",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6fdq.jpg"
+    },
+    "PPSA06603": {
+        "name": "Charon’s Staircase",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4spf.jpg"
+    },
+    "PPSA04747": {
+        "name": "Chernobylite",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vi.jpg"
+    },
+    "PPSA17313": {
+        "name": "Choo Choo Charles",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Choo_Choo_Charles.avif"
+    },
+    "PPSA17599": {
+        "name": "Clair Obscur: Expedition 33",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gam.jpg"
+    },
+    "PPSA05057": {
+        "name": "Clash Artifacts of Chaos",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co60e1.jpg"
+    },
+    "PPSA04645": {
+        "name": "Cobra Kai 2 Dojos Rising",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/07/Cobra-Kai-2-Dojos-Rising.jpg"
+    },
+    "PPSA08766": {
+        "name": "Cocoon",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4v2z.jpg"
+    },
+    "PPSA23908": {
+        "name": "CODE VEIN 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhi.jpg"
+    },
+    "PPSA26528": {
+        "name": "Code Violet",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa6dd.jpg"
+    },
+    "PPSA14708": {
+        "name": "Commandos Origins",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Commandos_Origins.jpg"
+    },
+    "PPSA04379": {
+        "name": "Construction Simulator Gold Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Construction_Simulator_Gold_Edition.avif"
+    },
+    "PPSA15368": {
+        "name": "Contra Operation Galuga",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72z7.jpg"
+    },
+    "PPSA34547": {
+        "name": "CONTROL Resonant",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/2-cds.jpg"
+    },
+    "PPSA01949": {
+        "name": "Control Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ewb.jpg"
+    },
+    "PPSA01951": {
+        "name": "Control Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ewb.jpg"
+    },
+    "PPSA02433": {
+        "name": "Crash Bandicoot 4 Its About Time",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hp4.jpg"
+    },
+    "PPSA03117": {
+        "name": "Crazy Chicken Shooter Bundle",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2xol.jpg"
+    },
+    "PPSA06382": {
+        "name": "Crime Boss Rockay City",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6mey.jpg"
+    },
+    "PPSA06381": {
+        "name": "Crime Boss Rockay City The Complete Collection",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crime_Boss_Rockay_City_TCC.jpg"
+    },
+    "PPSA10023": {
+        "name": "Crimson Desert",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg"
+    },
+    "PPSA25286": {
+        "name": "Crimson Desert Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqai.jpg"
+    },
+    "PPSA03568": {
+        "name": "Crimson Spires",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2u92.jpg"
+    },
+    "PPSA02121": {
+        "name": "Cris Tales",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2efa.jpg"
+    },
+    "PPSA07809": {
+        "name": "Crisis Core Final Fantasy VII Reunion",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjb3.jpg"
+    },
+    "PPSA24096": {
+        "name": "Cronos The New Dawn",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobqq9.jpg"
+    },
+    "PPSA13339": {
+        "name": "Crossfire: Sierra Squad",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jc9.jpg"
+    },
+    "PPSA09252": {
+        "name": "Crown Wars The Black Prince",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7pvv.jpg"
+    },
+    "PPSA14427": {
+        "name": "Crymachina Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crymachina_Deluxe_Edition.avif"
+    },
+    "PPSA06464": {
+        "name": "Cult Of The Lamb The One Who Waits Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Cult_Of_The_Lamb_TOWWE.jpg"
+    },
+    "PPSA02817": {
+        "name": "Curved Space",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k7k.jpg"
+    },
+    "PPSA13865": {
+        "name": "CUSTOM MECH WARS Ultimate Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/CUSTOM_MECH_WARS_Ultimate_Edition.avif"
+    },
+    "PPSA_00192": {
+        "name": "CyB1K Need Us!",
+        "image": "ps5"
+    },
+    "PPSA04029": {
+        "name": "Cyberpunk 2077 Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7iy1.jpg"
+    },
+    "PPSA05991": {
+        "name": "Cygni All Guns Blazing",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8c4n.jpg"
+    },
+    "PPSA29154": {
+        "name": "Daemon X Machina Titanic Scion",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9mb1.jpg"
+    },
+    "PPSA23253": {
+        "name": "Daemon X Machina Titanic Scion",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9mb1.jpg"
+    },
+    "PPSA04477": {
+        "name": "Dakar Desert Rally Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4s8w.jpg"
+    },
+    "PPSA19591": {
+        "name": "Darkest Dungeon II",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6grp.jpg"
+    },
+    "PPSA19590": {
+        "name": "Darkest Dungeon II",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6grp.jpg"
+    },
+    "PPSA23806": {
+        "name": "Darksiders 2 Deathinitive Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qql.jpg"
+    },
+    "PPSA31977": {
+        "name": "Darksiders Warmastered Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co24hi.jpg"
+    },
+    "PPSA28608": {
+        "name": "Darwins Paradox",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/5-mgg.jpg"
+    },
+    "PPSA09483": {
+        "name": "Daymare 1994 Sandcastle",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wy8.jpg"
+    },
+    "PPSA09482": {
+        "name": "Daymare 1994 Sandcastle",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wy8.jpg"
+    },
+    "PPSA28180": {
+        "name": "Days Gone Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e1e.jpg"
+    },
+    "PPSA15552": {
+        "name": "Dead Cells",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7jfv.jpg"
+    },
+    "PPSA03098": {
+        "name": "Dead Island 2 Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5469.jpg"
+    },
+    "PPSA18259": {
+        "name": "Dead Rising Deluxe Remaster",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8h05.jpg"
+    },
+    "PPSA03845": {
+        "name": "Dead Space",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobkv5.jpg"
+    },
+    "PPSA02015": {
+        "name": "Death Stranding 2 On The Beach",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ipx.jpg"
+    },
+    "PPSA01969": {
+        "name": "Death Stranding Directors Cut",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Death_Stranding_Directors_Cut.jpg"
+    },
+    "PPSA01968": {
+        "name": "Death Stranding Director’s Cut",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobksf.jpg"
+    },
+    "PPSA01670": {
+        "name": "DEATHLOOP Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ts8.jpg"
+    },
+    "PPSA02967": {
+        "name": "Deep Rock Galactic",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaat4.jpg"
+    },
+    "PPSA25661": {
+        "name": "Deliver At All Costs",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Deliver-At-All-Costs-PS5.jpg"
+    },
+    "PPSA21268": {
+        "name": "Demon Slayer Kimetsu no Yaiba Sweep the Board",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72t1.jpg"
+    },
+    "PPSA25428": {
+        "name": "Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa6vz.jpg"
+    },
+    "PPSA03457": {
+        "name": "Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles: Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dlc.jpg"
+    },
+    "PPSA03490": {
+        "name": "Demon Slayer: Kimetsu no Yaiba – The Hinokami Chronicles",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dlc.jpg"
+    },
+    "PPSA01341": {
+        "name": "Demons Souls Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Demons_Souls_DE.avif"
+    },
+    "PPSA01342": {
+        "name": "Demon’s Souls",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kj9.jpg"
+    },
+    "PPSA05398": {
+        "name": "Destroy All Humans 2 Reprobed",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ub3.jpg"
+    },
+    "PPSA02712": {
+        "name": "Destruction AllStars",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gw6.jpg"
+    },
+    "PPSA01443": {
+        "name": "Devil May Cry 5 Special Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/DMC5SE.jpg"
+    },
+    "PPSA01442": {
+        "name": "Devil May Cry 5 Special Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9sdu.jpg"
+    },
+    "PPSA24701": {
+        "name": "Digimon Story Time Stranger",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakzr.jpg"
+    },
+    "PPSA16384": {
+        "name": "Directive 8020 Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t96.jpg"
+    },
+    "PPSA01552": {
+        "name": "DiRT 5",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2e5b.jpg"
+    },
+    "PPSA01551": {
+        "name": "DIRT 5",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2e5b.jpg"
+    },
+    "PPSA02650": {
+        "name": "Disciples Liberation",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4e4h.jpg"
+    },
+    "PPSA06228": {
+        "name": "Disgaea 6 Complete",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hjc.jpg"
+    },
+    "PPSA13844": {
+        "name": "Disgaea 7 Vows of The Virtueless",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6o1e.jpg"
+    },
+    "PPSA15657": {
+        "name": "Disney Epic Mickey Rebrushed",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8jx5.jpg"
+    },
+    "PPSA15656": {
+        "name": "Disney Epic Mickey: Rebrushed",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8jx5.jpg"
+    },
+    "PPSA17219": {
+        "name": "Disney Illusion Island Starring Mickey and Friends",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Disney_Illusion_Island_Starring_Mickey_and_Friends.avif"
+    },
+    "PPSA07372": {
+        "name": "Disney Pixar Toy Story 2 Buzz Lightyear to the Rescue",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8clp.jpg"
+    },
+    "PPSA_00237": {
+        "name": "DLL-NBA2K25PS5",
+        "image": "ps5"
+    },
+    "PPSA06164": {
+        "name": "DNF Duel",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co722g.jpg"
+    },
+    "PPSA03417": {
+        "name": "DOLMEN",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3a3h.jpg"
+    },
+    "PPSA13711": {
+        "name": "Dolphin Spirit Ocean Mission",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dolphin_Spirit_Ocean_Mission.avif"
+    },
+    "PPSA05018": {
+        "name": "Dont Touch This Button",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dont_Touch_This_Button.jpg"
+    },
+    "PPSA21444": {
+        "name": "DOOM + DOOM II",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8npi.jpg"
+    },
+    "PPSA01981": {
+        "name": "DOOM Eternal",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p5n.jpg"
+    },
+    "PPSA20560": {
+        "name": "DOOM The Dark Ages",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9b3o.jpg"
+    },
+    "PPSA02494": {
+        "name": "Doraemon Story OF Seasons Friends of The Great Kingdom",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Doraemon_Story_OF_Seasons_Friends_of_The_Great_Kingdom.jpg"
+    },
+    "PPSA16019": {
+        "name": "Double Dragon Gaiden Rise of The Dragons",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6g6l.jpg"
+    },
+    "PPSA16018": {
+        "name": "Double Dragon Gaiden Rise of The Dragons",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/06/1-vff.jpg"
+    },
+    "PPSA23000": {
+        "name": "Double Dragon Revive",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8iy1.jpg"
+    },
+    "PPSA01390": {
+        "name": "Dragon Age The Veilguard",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gj5.jpg"
+    },
+    "PPSA09790": {
+        "name": "Dragon Ball Fighter Z",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dragon_Ball_Fighter_Z.avif"
+    },
+    "PPSA15210": {
+        "name": "Dragon Ball Sparking ZERO",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bhn.jpg"
+    },
+    "PPSA08587": {
+        "name": "Dragon Ball Xenoverse 2",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dragon_Ball_Xenoverse_2.avif"
+    },
+    "PPSA08084": {
+        "name": "Dragon Ball Z: Kakarot",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kqa.jpg"
+    },
+    "PPSA15211": {
+        "name": "DRAGON BALL: Sparking! ZERO",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bhn.jpg"
+    },
+    "PPSA22322": {
+        "name": "Dragon Quest I & II HD 2D Remake",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobj0v.jpg"
+    },
+    "PPSA22320": {
+        "name": "Dragon Quest I & II HD 2D Remake",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/04/1-1-10.jpg"
+    },
+    "PPSA20612": {
+        "name": "Dragon Quest III HD 2D Remake",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8d90.jpg"
+    },
+    "PPSA17942": {
+        "name": "Dragon Quest VII Reimagined",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobkan.jpg"
+    },
+    "PPSA17350": {
+        "name": "Dragon Quest X Offline",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dragon_Quest_X_Offline.avif"
+    },
+    "PPSA09664": {
+        "name": "Dragons Dogma 2 Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co833w.jpg"
+    },
+    "PPSA24781": {
+        "name": "Dreamcore",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7qrn.jpg"
+    },
+    "PPSA02929": {
+        "name": "Dreaming Sarah",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2cqy.jpg"
+    },
+    "PPSA15483": {
+        "name": "DreamWorks All Star Kart Racing",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ubu.jpg"
+    },
+    "PPSA09076": {
+        "name": "Dredge",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9kyk.jpg"
+    },
+    "PPSA07937": {
+        "name": "Dungeons 4",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6q55.jpg"
+    },
+    "PPSA02680": {
+        "name": "Dungeons Dragons Dark Alliance Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30ps.jpg"
+    },
+    "PPSA06565": {
+        "name": "Dusk Diver 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7gv3.jpg"
+    },
+    "PPSA02261": {
+        "name": "Dying Light 2 Stay Human",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/06/2-mh.jpg"
+    },
+    "PPSA02262": {
+        "name": "Dying Light 2 Stay Human Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yk.jpg"
+    },
+    "PPSA24003": {
+        "name": "Dying Light The Beast",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Dying-Light-The-Beast-PS5.jpg"
+    },
+    "PPSA15972": {
+        "name": "DYNASTY WARRIORS ORIGINS",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/DYNASTY_WARRIORS_ORIGINS.avif"
+    },
+    "PPSA04184": {
+        "name": "EA SPORTS College Football 25",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/EA_SPORTS_College_Football_25.avif"
+    },
+    "PPSA25859": {
+        "name": "EA Sports College Football 26",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/EA_Sports_College_Football_26.avif"
+    },
+    "PPSA13385": {
+        "name": "EA SPORTS FC 24",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6qqa.jpg"
+    },
+    "PPSA20049": {
+        "name": "EA Sports FC 25",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa755.jpg"
+    },
+    "PPSA27360": {
+        "name": "EA SPORTS FC 26",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5wx.jpg"
+    },
+    "PPSA34015": {
+        "name": "EA SPORTS FC 27",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FC27.avif"
+    },
+    "PPSA06275": {
+        "name": "EA Sports FIFA 23",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gj5.jpg"
+    },
+    "PPSA02227": {
+        "name": "EA Sports PGA Tour",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co60xh.jpg"
+    },
+    "PPSA03541": {
+        "name": "EA Sports UFC 5",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co71e9.jpg"
+    },
+    "PPSA06092": {
+        "name": "EA Sports WRC",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7aqn.jpg"
+    },
+    "PPSA19406": {
+        "name": "Earth Defense Force World Brothers 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t7k.jpg"
+    },
+    "PPSA28061": {
+        "name": "Earthion",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Earthion.avif"
+    },
+    "PPSA22711": {
+        "name": "Ed 0 Zombie Uprising",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ed_0_Zombie_Uprising.avif"
+    },
+    "PPSA25348": {
+        "name": "EDENS ZERO",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co96he.jpg"
+    },
+    "PPSA05510": {
+        "name": "Elden Ring",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.jpg"
+    },
+    "PPSA25380": {
+        "name": "Elden Ring Nightreign",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/04/1-1-3.jpg"
+    },
+    "PPSA25381": {
+        "name": "ELDEN RING NIGHTREIGN Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95gk.jpg"
+    },
+    "PPSA04609": {
+        "name": "ELDEN RING Shadow of the Erdtree Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.jpg"
+    },
+    "PPSA20931": {
+        "name": "Electronics Puzzle Lab",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7q99.jpg"
+    },
+    "PPSA03803": {
+        "name": "Elex 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39yr.jpg"
+    },
+    "PPSA14455": {
+        "name": "Empire of the Ants",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xrn.jpg"
+    },
+    "PPSA17144": {
+        "name": "Enchanted Portals",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co292e.jpg"
+    },
+    "PPSA08511": {
+        "name": "Endling Extinction is Forever",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6pmo.jpg"
+    },
+    "PPSA20548": {
+        "name": "Eriksholm The Stolen Dream",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5u5.jpg"
+    },
+    "PPSA08270": {
+        "name": "Eternights",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Eternights-PS5.jpg"
+    },
+    "PPSA04703": {
+        "name": "Ever Forward",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2f29.jpg"
+    },
+    "PPSA01886": {
+        "name": "Evergate",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2m7u.jpg"
+    },
+    "PPSA01885": {
+        "name": "Evergate",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2m7u.jpg"
+    },
+    "PPSA15671": {
+        "name": "Everspace 2 Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6dns.jpg"
+    },
+    "PPSA06699": {
+        "name": "Everybodys Golf 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qpn.jpg"
+    },
+    "PPSA04170": {
+        "name": "Evil Genius 2 World Domination",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2urs.jpg"
+    },
+    "PPSA02508": {
+        "name": "Evil Inside",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Evil_Inside.webp"
+    },
+    "PPSA02372": {
+        "name": "Evil West",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4udq.jpg"
+    },
+    "PPSA10414": {
+        "name": "Evotinction",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1jow.jpg"
+    },
+    "PPSA03157": {
+        "name": "EXODEMON",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hvn.jpg"
+    },
+    "PPSA17423": {
+        "name": "Expeditions A MudRunner Game",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ywx.jpg"
+    },
+    "PPSA02697": {
+        "name": "F1 2021",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/07/F1-2021-PS5.jpg"
+    },
+    "PPSA04618": {
+        "name": "F1 22 Championship Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/F1_22.avif"
+    },
+    "PPSA09801": {
+        "name": "F1 23",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/07/2-fgbv.jpg"
+    },
+    "PPSA17630": {
+        "name": "F1 24",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/F1_24.jpg"
+    },
+    "PPSA24662": {
+        "name": "F1 25",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9mk6.jpg"
+    },
+    "PPSA09091": {
+        "name": "Fairy Fencer F Refrain Chord",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/1-red.jpg"
+    },
+    "PPSA07645": {
+        "name": "Fallen Legion Rise to Glory",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Fallen_Legion_Rise_to_Glory.avif"
+    },
+    "PPSA09016": {
+        "name": "Fallout 4",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yc6.jpg"
+    },
+    "PPSA22265": {
+        "name": "FANTASIAN Neo Dimension",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8d92.jpg"
+    },
+    "PPSA27625": {
+        "name": "Fantasy Life i The Girl Who Steals Time Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Fantasy_Life_i_The_Girl_Who_Steals_Time_DE.jpg"
+    },
+    "PPSA01870": {
+        "name": "Far Cry 6",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2npg.jpg"
+    },
+    "PPSA02385": {
+        "name": "Farming Simulator 22",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co494f.jpg"
+    },
+    "PPSA19644": {
+        "name": "Farming Simulator 25",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Farming_Simulator_25.avif"
+    },
+    "PPSA30138": {
+        "name": "Fast and Furious Arcade Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Fast_and_Furious_Arcade_Edition.jpg"
+    },
+    "PPSA32802": {
+        "name": "Fatal Frame 2 Crimson Butterfly Remake Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coau37.jpg"
+    },
+    "PPSA04334": {
+        "name": "Fatal Frame Maiden of Black Water Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3zdo.jpg"
+    },
+    "PPSA19359": {
+        "name": "FATAL FURY: City of the Wolves",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8jjb.jpg"
+    },
+    "PPSA07421": {
+        "name": "Fate Samurai Remnant",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FateSamurai_Remnant.jpg"
+    },
+    "PPSA01327": {
+        "name": "FIFA 21",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/07/FIFA-21-PS5.jpg"
+    },
+    "PPSA03180": {
+        "name": "FIFA 22",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/06/2-fr.jpg"
+    },
+    "PPSA03178": {
+        "name": "FIFA 22",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dsm.jpg"
+    },
+    "GAME_7B85EA4B9B": {
+        "name": "FIFA 23",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/02/2-1.jpg"
+    },
+    "PPSA21783": {
+        "name": "FINAL FANTASY TACTICS The Ivalice Chronicles",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wwi.jpg"
+    },
+    "PPSA08668": {
+        "name": "Final Fantasy VII Rebirth",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9k6.jpg"
+    },
+    "PPSA01903": {
+        "name": "Final Fantasy VII Remake Intergrade",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9hh.jpg"
+    },
+    "PPSA01911": {
+        "name": "Final Fantasy VII Remake Intergrade Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Final_Fantasy_VII_Remake_Intergrade_DE.avif"
+    },
+    "PPSA10665": {
+        "name": "Final Fantasy XVI Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobd9i.jpg"
+    },
+    "PPSA07058": {
+        "name": "Final Vendetta",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p1b.jpg"
+    },
+    "PPSA02985": {
+        "name": "Fishing North Atlantic Enhanced Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4e1b.jpg"
+    },
+    "PPSA03969": {
+        "name": "FIST Forged In Shadow Torch",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ua0.jpg"
+    },
+    "PPSA18887": {
+        "name": "Five Nights at Freddy's Help Wanted 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7h69.jpg"
+    },
+    "PPSA04677": {
+        "name": "Five Nights at Freddys Security Breach",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4aro.jpg"
+    },
+    "PPSA08546": {
+        "name": "Flashback 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ech.jpg"
+    },
+    "PPSA07382": {
+        "name": "Flintlock The Siege of Dawn",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co84rp.jpg"
+    },
+    "PPSA05626": {
+        "name": "Fobia St Dinfna Hotel",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4l4i.jpg"
+    },
+    "PPSA05625": {
+        "name": "Fobia: St. Dinfna Hotel",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4l4i.jpg"
+    },
+    "PPSA29707": {
+        "name": "Football Manager 26 Console Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Football_Manager_26_Console_Edition.png"
+    },
+    "PPSA17189": {
+        "name": "Formula Retro Racing: World Tour – Special Edition",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Formula-Retro-Racing-World-Tour-Special-Edition-PS5.jpg"
+    },
+    "PPSA03984": {
+        "name": "Forspoken",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4u6r.jpg"
+    },
+    "PPSA14374": {
+        "name": "Fort Solis",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6zbw.jpg"
+    },
+    "PPSA22327": {
+        "name": "Forza Horizon 5",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ofx.jpg"
+    },
+    "PPSA16608": {
+        "name": "Frostpunk 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8yrc.jpg"
+    },
+    "PPSA19345": {
+        "name": "Funko Fusion Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co86gx.jpg"
+    },
+    "PPSA06147": {
+        "name": "Furi Modore Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobkn1.jpg"
+    },
+    "PPSA12363": {
+        "name": "Gamedec Definitive Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw8r.jpg"
+    },
+    "PPSA09256": {
+        "name": "Gangs of Sherwood",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z4e.jpg"
+    },
+    "PPSA25839": {
+        "name": "Garfield Kart 2 All You Can Drift",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Garfield_Kart_2_All_You_Can_Drift.avif"
+    },
+    "PPSA05027": {
+        "name": "Gear Club Unlimited 2 Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qol.jpg"
+    },
+    "PPSA17525": {
+        "name": "Gears of War Reloaded",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rr2.jpg"
+    },
+    "PPSA28542": {
+        "name": "Gex Trilogy",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9d3l.jpg"
+    },
+    "PPSA34038": {
+        "name": "Ghost Master Resurrection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobt0c.jpg"
+    },
+    "PPSA03210": {
+        "name": "Ghost of Tsushima Directors Cut",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2crj.jpg"
+    },
+    "PPSA02225": {
+        "name": "Ghost of Tsushima Directors Cut",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2crj.jpg"
+    },
+    "PPSA26344": {
+        "name": "Ghost of Yotei Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9coo.jpg"
+    },
+    "PPSA09232": {
+        "name": "Ghost Song",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_Song.webp"
+    },
+    "PPSA04057": {
+        "name": "Ghostbusters Spirits Unleashed Ecto Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co543w.jpg"
+    },
+    "PPSA07254": {
+        "name": "Ghostbusters: Spirits Unleashed",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co543w.jpg"
+    },
+    "PPSA03685": {
+        "name": "Ghostrunner",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nbk.jpg"
+    },
+    "PPSA09911": {
+        "name": "Ghostrunner 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co97mh.jpg"
+    },
+    "PPSA01337": {
+        "name": "Ghostwire Tokyo",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55xn.jpg"
+    },
+    "PPSA05518": {
+        "name": "Gigantosaurus Dino Kart",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Gigantosaurus_Dino_Kart.webp"
+    },
+    "PPSA04159": {
+        "name": "Goat Simulator 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4uks.jpg"
+    },
+    "PPSA10822": {
+        "name": "God of Rock",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54f2.jpg"
+    },
+    "PPSA08330": {
+        "name": "God Of War Ragnarok",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92vm.jpg"
+    },
+    "PPSA08329": {
+        "name": "God of War Ragnarök",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba3d.jpg"
+    },
+    "PPSA28997": {
+        "name": "God of War Sons of Sparta",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/God_of_War_Sons_of_Sparta.avif"
+    },
+    "PPSA27305": {
+        "name": "Goosebumps Terror in Little Creek",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Goosebumps_Terror_in_Little_Creek.avif"
+    },
+    "PPSA07393": {
+        "name": "Gori Cuddly Carnage",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79i9.jpg"
+    },
+    "PPSA07394": {
+        "name": "Gori Cuddly Carnage",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79i9.jpg"
+    },
+    "PPSA07257": {
+        "name": "Gotham Knights",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3s9z.jpg"
+    },
+    "PPSA09826": {
+        "name": "Gothic 1 Remake",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/2-vfe.jpg"
+    },
+    "PPSA01317": {
+        "name": "Gran Turismo 7",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g84.jpg"
+    },
+    "PPSA06955": {
+        "name": "Granblue Fantasy Relink Special Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ptq.jpg"
+    },
+    "PPSA03527": {
+        "name": "Grand Theft Auto 3 The Definitive Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yy.jpg"
+    },
+    "PPSA03524": {
+        "name": "Grand Theft Auto San Andreas The Definitive Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65z0.jpg"
+    },
+    "PPSA04263": {
+        "name": "Grand Theft Auto V",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9751.jpg"
+    },
+    "PPSA04264": {
+        "name": "Grand Theft Auto V",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9751.jpg"
+    },
+    "PPSA03530": {
+        "name": "Grand Theft Auto Vice City The Definitive Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yz.jpg"
+    },
+    "PPSA03525": {
+        "name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yx.jpg"
+    },
+    "PPSA09614": {
+        "name": "Graven",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2h3c.jpg"
+    },
+    "PPSA02849": {
+        "name": "Greak Memories of Azur",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4c2y.jpg"
+    },
+    "PPSA02981": {
+        "name": "GreedFall",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ytb.jpg"
+    },
+    "PPSA02982": {
+        "name": "GreedFall Gold Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ytb.jpg"
+    },
+    "PPSA21840": {
+        "name": "GreedFall The Dying World",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3r.jpg"
+    },
+    "PPSA13553": {
+        "name": "Greyhill Incident",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lna.jpg"
+    },
+    "PPSA03865": {
+        "name": "GRID Legends",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gvq.jpg"
+    },
+    "PPSA09804": {
+        "name": "GRIS",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qv5.jpg"
+    },
+    "PPSA02257": {
+        "name": "Guilty Gear Strive",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lby.jpg"
+    },
+    "PPSA08065": {
+        "name": "GUNDAM BREAKER 4",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92s8.jpg"
+    },
+    "PPSA03683": {
+        "name": "Gungrave GORE",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6vn2.jpg"
+    },
+    "PPSA13526": {
+        "name": "GYLT",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qad.jpg"
+    },
+    "PPSA03355": {
+        "name": "Hades",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9kr.jpg"
+    },
+    "PPSA36082": {
+        "name": "Hades 2",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/9-ntf-1.jpg"
+    },
+    "PPSA06653": {
+        "name": "Hamster Playground",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Hamster-Playground-PS5-.jpg"
+    },
+    "PPSA16911": {
+        "name": "HappyFunland",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6mds.jpg"
+    },
+    "PPSA14677": {
+        "name": "Harvest Days",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8igc.jpg"
+    },
+    "PPSA09259": {
+        "name": "Hell Is Us",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vum.jpg"
+    },
+    "PPSA27581": {
+        "name": "Hellblade Senuas Sacrifice",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/11-cfg.jpg"
+    },
+    "PPSA11264": {
+        "name": "Hellboy Web of Wyrd",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5va2.jpg"
+    },
+    "PPSA06465": {
+        "name": "Hellboy Web of Wyrd",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5va2.jpg"
+    },
+    "PPSA18176": {
+        "name": "Hello Kitty Island Adventure",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hello_Kitty_Island_Adventure.avif"
+    },
+    "PPSA07426": {
+        "name": "Hello Neighbor 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co81i8.jpg"
+    },
+    "PPSA26525": {
+        "name": "Heretic + Hexen",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/1-xde.jpg"
+    },
+    "PPSA17169": {
+        "name": "Hi Fi RUSH Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hi_Fi_RUSH_Deluxe_Edition.avif"
+    },
+    "PPSA17191": {
+        "name": "Hi-Fi RUSH Deluxe Edition",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Hi-Fi-RUSH-Deluxe-Edition-PS5.jpg"
+    },
+    "PPSA15388": {
+        "name": "High on Life",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67qo.jpg"
+    },
+    "PPSA30094": {
+        "name": "High on Life 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xyv.jpg"
+    },
+    "PPSA16388": {
+        "name": "Hitman World of Assassination",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co620f.jpg"
+    },
+    "PPSA16387": {
+        "name": "Hitman World of Assassination Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hitman_World_of_Assassination_Deluxe_Edition.avif"
+    },
+    "PPSA04181": {
+        "name": "HOA",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79g6.jpg"
+    },
+    "PPSA01593": {
+        "name": "Hogwarts Legacy",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaav6.jpg"
+    },
+    "PPSA12544": {
+        "name": "Hollow Knight Silksong",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/14-hed.jpg"
+    },
+    "PPSA05666": {
+        "name": "Horizon Call of The Mountain",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Horizon_Call_of_The_Mountain.avif"
+    },
+    "PPSA12771": {
+        "name": "Horizon Chase 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55i9.jpg"
+    },
+    "PPSA17905": {
+        "name": "Horizon Forbidden West Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7580.jpg"
+    },
+    "PPSA13427": {
+        "name": "Horizon Zero Dawn Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co90ti.jpg"
+    },
+    "PPSA13428": {
+        "name": "Horizon Zero Dawn Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co90ti.jpg"
+    },
+    "PPSA03638": {
+        "name": "Horror Tales The Wine",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2i9m.jpg"
+    },
+    "PPSA26501": {
+        "name": "Hot Wheels Lets Race Ultimate Speed",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9vv.jpg"
+    },
+    "PPSA18191": {
+        "name": "Hot Wheels Monster Trucks Stunt Mayhem",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8oej.jpg"
+    },
+    "PPSA02324": {
+        "name": "Hot Wheels Unleashed",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2u4x.jpg"
+    },
+    "PPSA09285": {
+        "name": "Hot Wheels Unleashed 2 Turbocharged",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hot_Wheels_Unleashed_2_Turbocharged.avif"
+    },
+    "PPSA15191": {
+        "name": "Hot Wheels Unleashed 2: Turbocharged",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6kko.jpg"
+    },
+    "PPSA21349": {
+        "name": "Hotel Barcelona",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/2-fxs.jpg"
+    },
+    "PPSA09682": {
+        "name": "Hotline Miami",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vqp.jpg"
+    },
+    "PPSA13416": {
+        "name": "Hubris",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8cv5.jpg"
+    },
+    "PPSA01900": {
+        "name": "Hunting Simulator 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20m6.jpg"
+    },
+    "PPSA06584": {
+        "name": "Ikai",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co46ew.jpg"
+    },
+    "PPSA01507": {
+        "name": "Immortals Fenyx Rising",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9kcb.jpg"
+    },
+    "PPSA01509": {
+        "name": "Immortals Fenyx Rising",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/06/1-we-1.jpg"
+    },
+    "PPSA08236": {
+        "name": "Immortals of Aveum",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6dtk.jpg"
+    },
+    "PPSA06108": {
+        "name": "In Nightmare",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/In_Nightmare.webp"
+    },
+    "PPSA04921": {
+        "name": "In Sound Mind",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p6y.jpg"
+    },
+    "PPSA22207": {
+        "name": "Inazuma Eleven Victory Road",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/1-ffb.jpg"
+    },
+    "PPSA_00442": {
+        "name": "INAZUMA ELEVEN: Victory Road Deluxe Edition",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/INAZUMA-ELEVEN-Victory-Road-Deluxe-Edition-PS4-PKG.jpg"
+    },
+    "PPSA26786": {
+        "name": "Indiana Jones and The Great Circle",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nbc.jpg"
+    },
+    "PPSA16214": {
+        "name": "Indika",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co85mc.jpg"
+    },
+    "PPSA09453": {
+        "name": "Infinity Strash DRAGON QUEST The Adventure of Dai",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6m7z.jpg"
+    },
+    "PPSA02688": {
+        "name": "Infliction Extended Cut",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2467.jpg"
+    },
+    "PPSA06829": {
+        "name": "Insomnis",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ejs.jpg"
+    },
+    "PPSA04319": {
+        "name": "Instant Sports Plus",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4guy.jpg"
+    },
+    "PPSA30568": {
+        "name": "Invincible VS",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobzwk.jpg"
+    },
+    "PPSA02393": {
+        "name": "Iron Harvest Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co409p.jpg"
+    },
+    "PPSA02343": {
+        "name": "It Takes Two",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob22v.jpg"
+    },
+    "PPSA19370": {
+        "name": "Jack Holmes Master of Puppets",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co857h.jpg"
+    },
+    "PPSA09569": {
+        "name": "Jagged Alliance 3",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Jagged_Alliance_3.avif"
+    },
+    "PPSA17163": {
+        "name": "Jets N Guns 2",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Jets_N_Guns_2.avif"
+    },
+    "PPSA09828": {
+        "name": "Jitsu Squad",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2x59.jpg"
+    },
+    "PPSA04220": {
+        "name": "JoJos Bizarre Adventure All Star Battle R",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4w41.jpg"
+    },
+    "PPSA01852": {
+        "name": "JUDGE EYES：死神の遺言 Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7q97.jpg"
+    },
+    "PPSA02740": {
+        "name": "Judgment",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7q97.jpg"
+    },
+    "PPSA02739": {
+        "name": "Judgment",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/06/2-cds-1.jpg"
+    },
+    "PPSA19268": {
+        "name": "Juicy Realm",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27oq.jpg"
+    },
+    "PPSA03973": {
+        "name": "Jumanji The Video Game",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nbk.jpg"
+    },
+    "PPSA06359": {
+        "name": "Jumping Flash",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co633t.jpg"
+    },
+    "PPSA17217": {
+        "name": "Jurassic Park Classic Games Collection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7tlw.jpg"
+    },
+    "PPSA03286": {
+        "name": "Jurassic World Evolution 2 Premium Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Jurassic_World_Evolution_2_Premium_Edition.jpg"
+    },
+    "PPSA25153": {
+        "name": "Jurassic World Evolution 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xgz.jpg"
+    },
+    "PPSA10264": {
+        "name": "Jusant",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2kv.jpg"
+    },
+    "PPSA20450": {
+        "name": "KAGE Shadow of The Ninja",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8sry.jpg"
+    },
+    "PPSA30797": {
+        "name": "KAKU Ancient Seal",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co84ud.jpg"
+    },
+    "PPSA05595": {
+        "name": "Kao The Kangaroo",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4kfg.jpg"
+    },
+    "PPSA22844": {
+        "name": "KARMA The Dark World",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co84tw.jpg"
+    },
+    "PPSA01746": {
+        "name": "Kena Bridge of Spirits",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co74h7.jpg"
+    },
+    "PPSA03748": {
+        "name": "Kerbal Space Program Enhanced Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2yi9.jpg"
+    },
+    "PPSA02210": {
+        "name": "KeyWe",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3jkn.jpg"
+    },
+    "PPSA05786": {
+        "name": "Kid A Mnesia Exhibition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co489x.jpg"
+    },
+    "PPSA08427": {
+        "name": "Killing Floor 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9f9j.jpg"
+    },
+    "PPSA11142": {
+        "name": "Killzone Liberation",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/4-nvf.jpg"
+    },
+    "PPSA21704": {
+        "name": "Kingdom Come Deliverance 2 Royal Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8qmv.jpg"
+    },
+    "PPSA02527": {
+        "name": "Kitaria Fables",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co394s.jpg"
+    },
+    "PPSA19297": {
+        "name": "Kitten Island",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6kor.jpg"
+    },
+    "PPSA04795": {
+        "name": "KLONOA Phantasy Reverie Series Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tns.jpg"
+    },
+    "PPSA20289": {
+        "name": "Kong Survivor Instinct",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Kong_Survivor_Instinct.jpg"
+    },
+    "PPSA19577": {
+        "name": "Kunitsu Gami Path of The Goddess",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/5-bng.jpg"
+    },
+    "PPSA09196": {
+        "name": "Last Days of Lazarus",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4wfc.jpg"
+    },
+    "PPSA07265": {
+        "name": "Layers of Fear",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lnj.jpg"
+    },
+    "PPSA_00485": {
+        "name": "Legacy of Kain Defiance Remastered",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Legacy-of-Kain-Defiance-Remastered-PS4-PKG.jpg"
+    },
+    "PPSA18152": {
+        "name": "Legacy of Kain Soul Reaver 1 and 2 Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8urj.jpg"
+    },
+    "PPSA04048": {
+        "name": "LEGO 2K Drive",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ajx.jpg"
+    },
+    "PPSA16833": {
+        "name": "LEGO Batman Legacy of The Dark Knight Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Batman_Legacy_of_The_Dark_Knight_DE.avif"
+    },
+    "PPSA06406": {
+        "name": "LEGO Brawls",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Brawls.avif"
+    },
+    "PPSA07430": {
+        "name": "LEGO Bricktales",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Bricktales.webp"
+    },
+    "PPSA05496": {
+        "name": "LEGO Builders Journey",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Builders_Journey.webp"
+    },
+    "PPSA22946": {
+        "name": "LEGO Harry Potter Collection",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Harry_Potter_Collection.avif"
+    },
+    "PPSA14632": {
+        "name": "LEGO Horizon Adventures",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8juk.jpg"
+    },
+    "PPSA29141": {
+        "name": "LEGO Party",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Party.avif"
+    },
+    "PPSA01864": {
+        "name": "LEGO Star Wars The Skywalker Saga",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28yb.jpg"
+    },
+    "PPSA23732": {
+        "name": "LEGO Voyagers",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Voyagers.avif"
+    },
+    "PPSA06438": {
+        "name": "Lets Build A Zoo Ultimate Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Lets_Build_A_Zoo.webp"
+    },
+    "PPSA10261": {
+        "name": "Lies of P",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lxr.jpg"
+    },
+    "PPSA10621": {
+        "name": "Lies of P: Overture",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lxr.jpg"
+    },
+    "PPSA16106": {
+        "name": "Life is Strange Double Exposure Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bp9.jpg"
+    },
+    "PPSA28099": {
+        "name": "Life is Strange Reunion",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbp8.jpg"
+    },
+    "PPSA02047": {
+        "name": "Life is Strange True Colors",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vpp.jpg"
+    },
+    "PPSA28101": {
+        "name": "Life is Strange: Reunion",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbp8.jpg"
+    },
+    "PPSA02046": {
+        "name": "Life is Strange: True Colors",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vpp.jpg"
+    },
+    "PPSA16265": {
+        "name": "Like A Dragon Gaiden The Man Who Erased His Name Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ln4.jpg"
+    },
+    "PPSA06433": {
+        "name": "Like a Dragon Infinite Wealth",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8356.jpg"
+    },
+    "PPSA06435": {
+        "name": "Like a Dragon Infinite Wealth Ultimate Edition",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/06/1-bf.jpg"
+    },
+    "PPSA06454": {
+        "name": "Like A Dragon Ishin",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co59yh.jpg"
+    },
+    "PPSA24478": {
+        "name": "Like A Dragon Pirate Yakuza in Hawaii Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8u8o.jpg"
+    },
+    "PPSA23885": {
+        "name": "Little Big Adventure: Twinsen’s Quest",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8eox.jpg"
+    },
+    "PPSA02154": {
+        "name": "Little Nightmares 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa17l.jpg"
+    },
+    "PPSA05143": {
+        "name": "Little Nightmares 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa171.jpg"
+    },
+    "PPSA05144": {
+        "name": "Little Nightmares 3: Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak7o.jpg"
+    },
+    "PPSA10737": {
+        "name": "Little Nightmares Enhanced Complete Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Little_Nightmares_Enhanced_Edition.avif"
+    },
+    "PPSA05727": {
+        "name": "LOL Surprise B.B.s BORN TO TRAVEL",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LOL_Surprise_BBs_BORN_TO_TRAVEL.avif"
+    },
+    "PPSA21837": {
+        "name": "Lollipop Chainsaw RePoP",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8e5b.jpg"
+    },
+    "PPSA19563": {
+        "name": "Looney Tunes Wacky World of Sports",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8san.jpg"
+    },
+    "PPSA03641": {
+        "name": "Lords of The Fallen",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72u9.jpg"
+    },
+    "PPSA07064": {
+        "name": "Lords of the Fallen",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72u9.jpg"
+    },
+    "PPSA07429": {
+        "name": "LOST EPIC",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co31ku.jpg"
+    },
+    "PPSA01693": {
+        "name": "Lost in Random",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3xva.jpg"
+    },
+    "PPSA03775": {
+        "name": "Lost Judgment",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53ld.jpg"
+    },
+    "PPSA03792": {
+        "name": "Lost Judgment",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53ld.jpg"
+    },
+    "PPSA26358": {
+        "name": "Lost Soul Aside",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ph5.jpg"
+    },
+    "PPSA22999": {
+        "name": "Love is all around",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Love_is_all_around.avif"
+    },
+    "PPSA09090": {
+        "name": "Lunar Lander Beyond",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaui.jpg"
+    },
+    "PPSA17181": {
+        "name": "LUTO",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2av.jpg"
+    },
+    "PPSA01343": {
+        "name": "Madden NFL 21",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/07/1-dcv.jpg"
+    },
+    "PPSA02373": {
+        "name": "Madden NFL 22",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/07/Madden-NFL-22-PS5.jpg"
+    },
+    "PPSA05481": {
+        "name": "Madden NFL 23",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/07/2-ghmgh.jpg"
+    },
+    "PPSA18888": {
+        "name": "Madden NFL 25",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/07/4-ghm.jpg"
+    },
+    "PPSA26127": {
+        "name": "Madden NFL 26",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Madden_NFL_26.avif"
+    },
+    "PPSA07370": {
+        "name": "MADiSON",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3mr1.jpg"
+    },
+    "PPSA16915": {
+        "name": "MADiSON VR Cursed Edition",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/01/MADiSON-VR-Cursed-Edition-PS5.webp"
+    },
+    "PPSA14251": {
+        "name": "Mafia The Old Country Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9dq.jpg"
+    },
+    "PPSA14299": {
+        "name": "Mafia The Old Country: Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9dq.jpg"
+    },
+    "PPSA26917": {
+        "name": "Mandragora Whispers of the Witch Tree",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mandragora_Whispers_of_the_Witch_Tree.avif"
+    },
+    "PPSA06960": {
+        "name": "Mandragora Whispers of The Witch Tree",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/08/1-erd.jpg"
+    },
+    "PPSA01862": {
+        "name": "Maneater",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lx6.jpg"
+    },
+    "PPSA01861": {
+        "name": "Maneater",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lx6.jpg"
+    },
+    "PPSA02006": {
+        "name": "Martha is Dead",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2or1.jpg"
+    },
+    "PPSA29629": {
+        "name": "Marvel Cosmic Invasion",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvel_Cosmic_Invasion.jpg"
+    },
+    "PPSA01748": {
+        "name": "Marvel's Guardians of the Galaxy",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39pu.jpg"
+    },
+    "PPSA01631": {
+        "name": "Marvels Avengers Definitive Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Avengers_Definitive_Edition.avif"
+    },
+    "PPSA03603": {
+        "name": "Marvels Midnight Suns Enhanced Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4xln.jpg"
+    },
+    "PPSA03016": {
+        "name": "Marvels Spider Man 2 Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7a0e.jpg"
+    },
+    "PPSA01417": {
+        "name": "Marvels Spider Man Miles Morales",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Spider_Man_Miles_Morales.webp"
+    },
+    "PPSA01411": {
+        "name": "Marvels Spider Man Miles Morales",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/06/1-mdbg-1.jpg"
+    },
+    "PPSA01467": {
+        "name": "Marvels Spider Man Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobg1l.jpg"
+    },
+    "PPSA01469": {
+        "name": "Marvels Spider Man Remastered",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/06/1-ec.jpg"
+    },
+    "PPSA15595": {
+        "name": "Marvels Tokon Fighting Souls",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MARVEL_Tokon_Fighting_Souls.avif"
+    },
+    "PPSA03671": {
+        "name": "Marvels Wolverine",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Wolverine.avif"
+    },
+    "PPSA01461": {
+        "name": "Marvel’s Spider-Man: Miles Morales",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobg1j.jpg"
+    },
+    "PPSA18629": {
+        "name": "Master Detective Archives RAIN CODE Plus",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Master_Detective_Archives_RAIN_CODE_Plus.avif"
+    },
+    "PPSA18133": {
+        "name": "Master Detective Archives: RAIN CODE Plus",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Master-Detective-Archives-RAIN-CODE-Plus-PS5.jpg"
+    },
+    "PPSA18089": {
+        "name": "Matchbox Driving Adventures",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m32.jpg"
+    },
+    "PPSA14464": {
+        "name": "Mayhem Brawler",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2tu2.jpg"
+    },
+    "PPSA03859": {
+        "name": "MechWarrior 5 Mercenaries",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q7q.jpg"
+    },
+    "PPSA07933": {
+        "name": "Medieval Dynasty",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyff.jpg"
+    },
+    "PPSA32239": {
+        "name": "Mega Man Star Force Legacy Collection",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mega_Man_Star_Force_Legacy_Collection.avif"
+    },
+    "PPSA18083": {
+        "name": "Megaton Musashi W Wired",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/9-brs.jpg"
+    },
+    "PPSA33096": {
+        "name": "Memories Off Sousou Break Out Of My Shell",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/08/1-vfe-1.jpg"
+    },
+    "PPSA14408": {
+        "name": "Metal Gear and Metal Gear 2 Solid Snake",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/2-vfd.jpg"
+    },
+    "PPSA14396": {
+        "name": "METAL GEAR SOLID 2 Sons of Liberty Master Collection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobs3o.jpg"
+    },
+    "PPSA14404": {
+        "name": "METAL GEAR SOLID 3 Snake Eater Master Collection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jaw.jpg"
+    },
+    "PPSA15304": {
+        "name": "Metal Gear Solid Delta Snake Eater Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coac1n.jpg"
+    },
+    "PPSA14363": {
+        "name": "METAL GEAR SOLID Master Collection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jaw.jpg"
+    },
+    "PPSA16256": {
+        "name": "Metal Gear Solid Master Collection Vol 1 Bonus Content",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtal.jpg"
+    },
+    "PPSA20643": {
+        "name": "Metal Slug Tactics",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8c4a.jpg"
+    },
+    "PPSA20800": {
+        "name": "Metaphor ReFantazio",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8d9t.jpg"
+    },
+    "PPSA19383": {
+        "name": "Metro Awakening",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7paw.jpg"
+    },
+    "PPSA02395": {
+        "name": "Metro Exodus Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaroh.jpg"
+    },
+    "PPSA06217": {
+        "name": "Miasma Chronicles",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z4d.jpg"
+    },
+    "PPSA18528": {
+        "name": "Mighty Morphin Power Rangers Ritas Rewind",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mighty_Morphin_Power_Rangers_Ritas_Rewind.avif"
+    },
+    "PPSA18529": {
+        "name": "Mighty Morphin Power Rangers: Rita’s Rewind",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Mighty-Morphin-Power-Rangers-Ritas-Rewind-PS5.jpg"
+    },
+    "PPSA28209": {
+        "name": "MindsEye",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9lg5.jpg"
+    },
+    "PPSA17221": {
+        "name": "Minecraft",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8fu7.jpg"
+    },
+    "GAME_F0D7B34191": {
+        "name": "Minecraft Legends",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4v2s.jpg"
+    },
+    "PPSA19639": {
+        "name": "Minecraft Preview",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/01/1-2.png"
+    },
+    "PPSA01416": {
+        "name": "MLB The Show 21",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2s9v.jpg"
+    },
+    "PPSA09243": {
+        "name": "MLB The Show 23",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62mj.jpg"
+    },
+    "PPSA02787": {
+        "name": "Monster Boy and The Cursed Kingdom",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27mg.jpg"
+    },
+    "PPSA20435": {
+        "name": "Monster Energy Supercross 25",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qg9.jpg"
+    },
+    "PPSA09135": {
+        "name": "Monster Energy Supercross The Official Videogame 6",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Energy_Supercross_The_Official_Videogame_6.webp"
+    },
+    "PPSA08592": {
+        "name": "Monster Energy Supercross The Official Videogame 6",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66ed.jpg"
+    },
+    "PPSA01608": {
+        "name": "Monster Energy Supercross: The Official Videogame 4",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l3p.jpg"
+    },
+    "PPSA04054": {
+        "name": "Monster Energy Supercross: The Official Videogame 5",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4cge.jpg"
+    },
+    "PPSA26873": {
+        "name": "Monster Hunter Stories 3 Twisted Reflection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxze.jpg"
+    },
+    "PPSA07862": {
+        "name": "Monster Hunter Wilds Premium Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Hunter_Wilds_Premium_Edition.png"
+    },
+    "PPSA16160": {
+        "name": "Monster Jam Showdown",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Jam_Showdown.avif"
+    },
+    "PPSA16159": {
+        "name": "Monster Jam Showdown",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8oel.jpg"
+    },
+    "PPSA01902": {
+        "name": "Monster Truck Championship",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gba.jpg"
+    },
+    "PPSA13524": {
+        "name": "Morbid The Lords of Ire",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co87gw.jpg"
+    },
+    "PPSA07570": {
+        "name": "Mortal Kombat 1",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9b8f.jpg"
+    },
+    "PPSA01619": {
+        "name": "Mortal Kombat 11 Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kh5.jpg"
+    },
+    "PPSA28068": {
+        "name": "Mortal Kombat Legacy Kollection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x1h.jpg"
+    },
+    "PPSA34008": {
+        "name": "Mortal Shell 2",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/4-mgg.jpg"
+    },
+    "PPSA02868": {
+        "name": "Mortal Shell Enhanced Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2yhh.jpg"
+    },
+    "PPSA10829": {
+        "name": "Mothmen 1966",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55b2.jpg"
+    },
+    "PPSA02377": {
+        "name": "MotoGP 21",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2u67.jpg"
+    },
+    "PPSA05760": {
+        "name": "MotoGP 22",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ky4.jpg"
+    },
+    "PPSA10682": {
+        "name": "MotoGP 23",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bcl.jpg"
+    },
+    "PPSA19566": {
+        "name": "MotoGP 24",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co80e3.jpg"
+    },
+    "PPSA25319": {
+        "name": "MotoGP 25",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MotoGP_25.avif"
+    },
+    "PPSA32557": {
+        "name": "MotoGP 26",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MotoGP_26.avif"
+    },
+    "PPSA03190": {
+        "name": "MultiVersus",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MultiVersus.jpg"
+    },
+    "PPSA04734": {
+        "name": "MX vs ATV Legends 2025 Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ub6.jpg"
+    },
+    "PPSA01646": {
+        "name": "MXGP 2020 – The Official Motocross Videogame",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2le0.jpg"
+    },
+    "PPSA24157": {
+        "name": "My First Gran Turismo",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/My_First_Gran_Turismo.avif"
+    },
+    "PPSA24156": {
+        "name": "My First Gran Turismo",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94a9.jpg"
+    },
+    "PPSA09904": {
+        "name": "NAIAD",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8rx6.jpg"
+    },
+    "PPSA06981": {
+        "name": "Naruto X Boruto Ultimate Ninja Storm Connections Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Naruto_X_Boruto_Ultimate_Ninja_Storm_Connections_DE.avif"
+    },
+    "PPSA13790": {
+        "name": "NASCAR Arcade Rush",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72oi.jpg"
+    },
+    "PPSA01387": {
+        "name": "NBA 2K21",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2eck.jpg"
+    },
+    "PPSA03669": {
+        "name": "NBA 2K22",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/07/2-cdv.jpg"
+    },
+    "PPSA07169": {
+        "name": "NBA 2K23",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/07/1-yry.jpg"
+    },
+    "PPSA15302": {
+        "name": "NBA 2K24",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m0s.jpg"
+    },
+    "PPSA22121": {
+        "name": "NBA 2K25",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8te0.jpg"
+    },
+    "PPSA28420": {
+        "name": "NBA 2K26",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa3pk.jpg"
+    },
+    "PPSA02449": {
+        "name": "Necromunda Hired Gun",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co31dd.jpg"
+    },
+    "PPSA01716": {
+        "name": "Need for Speed Unbound",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5fsv.jpg"
+    },
+    "PPSA13871": {
+        "name": "Neko Rescue Tale",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6rki.jpg"
+    },
+    "PPSA02721": {
+        "name": "Neptunia Reverse",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b2e.jpg"
+    },
+    "PPSA02413": {
+        "name": "Nerf Legends",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7i03.jpg"
+    },
+    "PPSA16786": {
+        "name": "Neva",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8x5c.jpg"
+    },
+    "PPSA02801": {
+        "name": "New Joe and Mac Caveman Ninja",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vjs.jpg"
+    },
+    "PPSA34823": {
+        "name": "New Super Luckys Tale",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ehd.jpg"
+    },
+    "PPSA03500": {
+        "name": "New Tales From The Borderlands",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co548j.jpg"
+    },
+    "PPSA05659": {
+        "name": "NHL 23",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/07/3-csw.jpg"
+    },
+    "PPSA11193": {
+        "name": "NHL 24",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xmf.jpg"
+    },
+    "PPSA26785": {
+        "name": "NHL 26",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/NHL_26.avif"
+    },
+    "PPSA34063": {
+        "name": "NHL 27",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/7-grd.jpg"
+    },
+    "PPSA02279": {
+        "name": "Nickelodeon All Star Brawl",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4upo.jpg"
+    },
+    "PPSA16745": {
+        "name": "Nickelodeon All Star Brawl 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co756t.jpg"
+    },
+    "PPSA04339": {
+        "name": "Nickelodeon Kart Racers 3 Slime Speedway",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5frp.jpg"
+    },
+    "PPSA05111": {
+        "name": "Night Trap 25th Anniversary Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ufg.jpg"
+    },
+    "PPSA23760": {
+        "name": "Nikoderiko The Magical World Directors Cut",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Nikoderiko_The_Magical_World_Directors_Cut.avif"
+    },
+    "PPSA26679": {
+        "name": "NINJA GAIDEN 2 Black",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9b3s.jpg"
+    },
+    "PPSA25258": {
+        "name": "Ninja Gaiden 4",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9b3p.jpg"
+    },
+    "PPSA28002": {
+        "name": "Ninja Gaiden Ragebound",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qrg.jpg"
+    },
+    "PPSA02489": {
+        "name": "Nioh 2 Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2slr.jpg"
+    },
+    "PPSA02487": {
+        "name": "Nioh 2 Remastered The Complete Edition",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/06/9-cd.jpg"
+    },
+    "PPSA32785": {
+        "name": "Nioh 3 Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3x.jpg"
+    },
+    "PPSA02484": {
+        "name": "Nioh Remastered The Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2slr.jpg"
+    },
+    "PPSA02110": {
+        "name": "No Mans Sky",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacrk.jpg"
+    },
+    "PPSA07576": {
+        "name": "No More Heroes 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2th2.jpg"
+    },
+    "PPSA22652": {
+        "name": "No Sleep For Kaname Date From AI THE SOMNIUM FILES",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/1-vdr.jpg"
+    },
+    "PPSA02117": {
+        "name": "Observer System Redux",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a30.jpg"
+    },
+    "PPSA02118": {
+        "name": "Observer: System Redux",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a30.jpg"
+    },
+    "PPSA28495": {
+        "name": "Octopath Traveler 0 Digital Deluxe Edition",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Octopath-Traveler-0-Digital-Deluxe-Edition-PS5.jpg"
+    },
+    "PPSA09809": {
+        "name": "Octopath Traveler 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ds7.jpg"
+    },
+    "PPSA07921": {
+        "name": "Oddworld Abes Exoddus (PS1 Emulation)",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3pvr.jpg"
+    },
+    "PPSA02259": {
+        "name": "Oddworld Soulstorm",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ysw.jpg"
+    },
+    "PPSA02891": {
+        "name": "On The Road The Truck Simulator",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7s50.jpg"
+    },
+    "PPSA18172": {
+        "name": "One Last Breath",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/One_Last_Breath.webp"
+    },
+    "PPSA03030": {
+        "name": "One Night Stand",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jfi.jpg"
+    },
+    "PPSA04995": {
+        "name": "One Piece Odyssey",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t7k.jpg"
+    },
+    "PPSA27500": {
+        "name": "One Piece Pirate Warriors 4",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/One-Piece-Pirate-Warriors-4-PS5.jpg"
+    },
+    "PPSA27836": {
+        "name": "Onimusha Way of The Sword",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/3-vdx-2.jpg"
+    },
+    "PPSA04814": {
+        "name": "Outcast A New Beginning",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6x9d.jpg"
+    },
+    "PPSA04813": {
+        "name": "Outcast A New Beginning",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6x9d.jpg"
+    },
+    "PPSA08102": {
+        "name": "Outer Wilds",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65ac.jpg"
+    },
+    "PPSA06215": {
+        "name": "Outward Definitive Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coayf2.jpg"
+    },
+    "PPSA01528": {
+        "name": "Overcooked All You Can Eat",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Overcooked_All_You_Can_Eat.webp"
+    },
+    "PPSA09850": {
+        "name": "Overpass 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co760m.jpg"
+    },
+    "PPSA01907": {
+        "name": "Override 2 Super Mech League Ultraman Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2frs.jpg"
+    },
+    "PPSA13862": {
+        "name": "OVRDARK: A Do Not Open Story",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8usf.jpg"
+    },
+    "PPSA06399": {
+        "name": "PAC Man World Re PAC",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ex1.jpg"
+    },
+    "PPSA18189": {
+        "name": "PAC-MAN WORLD 2 Re-PAC",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/07/PAC-MAN-WORLD-2-Re-PAC-PS5.jpg"
+    },
+    "PPSA10965": {
+        "name": "Pacific Drive",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1g8.jpg"
+    },
+    "PPSA27676": {
+        "name": "Painkiller",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa15q.jpg"
+    },
+    "PPSA10796": {
+        "name": "Paleo Pines",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6m3v.jpg"
+    },
+    "PPSA02798": {
+        "name": "Panda Hero Remastered",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Panda_Hero_Remastered.avif"
+    },
+    "PPSA05326": {
+        "name": "Park Beyond",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5465.jpg"
+    },
+    "PPSA05344": {
+        "name": "Park Beyond",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5465.jpg"
+    },
+    "PPSA05521": {
+        "name": "PAW Patrol Grand Prix",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5dhl.jpg"
+    },
+    "PPSA09190": {
+        "name": "PAW Patrol World",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co75f0.jpg"
+    },
+    "PPSA10873": {
+        "name": "Persona 3 Reload",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Persona_3_Reload.avif"
+    },
+    "PPSA10872": {
+        "name": "Persona 3 Reload",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8krp.jpg"
+    },
+    "PPSA09706": {
+        "name": "Persona 5 Tactica Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Persona_5_Tactica.avif"
+    },
+    "PPSA07029": {
+        "name": "Personality and Psychology Premium",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Personality_and_Psychology_Premium.avif"
+    },
+    "PPSA04426": {
+        "name": "PGA TOUR 2K23",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PGA_TOUR_2K23.jpg"
+    },
+    "PPSA17952": {
+        "name": "PGA Tour 2K25",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99wv.jpg"
+    },
+    "PPSA13794": {
+        "name": "Phantom Breaker Battle Grounds Ultimate",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co955n.jpg"
+    },
+    "PPSA12514": {
+        "name": "Pistol Whip",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Pistol-Whip-PS5.jpg"
+    },
+    "PPSA01736": {
+        "name": "Planet Coaster Console Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2x78.jpg"
+    },
+    "PPSA17949": {
+        "name": "Plumbers Dont Wear Ties Definitive Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7407.jpg"
+    },
+    "PPSA17139": {
+        "name": "Pneumata",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ea3.jpg"
+    },
+    "PPSA17138": {
+        "name": "Pneumata",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ea3.jpg"
+    },
+    "PPSA05831": {
+        "name": "Police Simulator Patrol Officers",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39t1.jpg"
+    },
+    "PPSA20591": {
+        "name": "Poppy Playtime Chapter 1",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobi3t.jpg"
+    },
+    "PPSA21631": {
+        "name": "Poppy Playtime Chapter 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8y0x.jpg"
+    },
+    "PPSA22380": {
+        "name": "Poppy Playtime Chapter 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co90ho.jpg"
+    },
+    "PPSA_00694": {
+        "name": "POPPY PLAYTIME CHAPTER 5",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/POPPY-PLAYTIME-CHAPTER-5-PS4-PKG.jpg"
+    },
+    "PPSA02815": {
+        "name": "Port Royale 4",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xt5.jpg"
+    },
+    "PPSA11002": {
+        "name": "Post Trauma",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79i4.jpg"
+    },
+    "PPSA02687": {
+        "name": "Potion Permit",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4trz.jpg"
+    },
+    "PPSA04987": {
+        "name": "Powerwash Simulator Ultimate Satisfaction",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7gek.jpg"
+    },
+    "PPSA02530": {
+        "name": "PRAGMATA Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxnx.jpg"
+    },
+    "PPSA24179": {
+        "name": "Predator Hunting Grounds",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Predator_Hunting_Grounds.avif"
+    },
+    "PPSA10067": {
+        "name": "Prince of Persia The Lost Crown",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lli.jpg"
+    },
+    "PPSA10528": {
+        "name": "Prince of Persia: The Lost Crown Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lli.jpg"
+    },
+    "PPSA15878": {
+        "name": "Propagation Paradise Hotel",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/08/4-vre.jpg"
+    },
+    "PPSA01530": {
+        "name": "Puyo Puyo Tetris 2",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Puyo_Puyo_Tetris_2.avif"
+    },
+    "PPSA03712": {
+        "name": "Puzzle Bobble 3D Vacation Odyssey",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Puzzle_Bobble_3D_Vacation_Odyssey.webp"
+    },
+    "PPSA01880": {
+        "name": "Quake",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9bga.jpg"
+    },
+    "PPSA09477": {
+        "name": "Quake 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4r1a.jpg"
+    },
+    "PPSA04479": {
+        "name": "Quantum Error",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co76fz.jpg"
+    },
+    "PPSA05591": {
+        "name": "QUBE 10th Anniversary",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ygb.jpg"
+    },
+    "PPSA08394": {
+        "name": "R Type Final 3 Evolved",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7dst.jpg"
+    },
+    "PPSA26414": {
+        "name": "R-Type Delta: HD Boosted",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/R-Type-Delta-HD-Boosted-PS5.jpg"
+    },
+    "PPSA13356": {
+        "name": "Raiden III x MIKADO MANIAX",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66ux.jpg"
+    },
+    "PPSA08832": {
+        "name": "Raiden IV x Mikado Remix",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7oic.jpg"
+    },
+    "PPSA15366": {
+        "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/RAIDOU-Remastered-The-Mystery-of-the-Soulless-Armyva-PS5.jpg"
+    },
+    "PPSA01474": {
+        "name": "Ratchet & Clank Rift Apart",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2str.jpg"
+    },
+    "PPSA18605": {
+        "name": "Ready or Not Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ready_or_Not_DE.avif"
+    },
+    "PPSA03535": {
+        "name": "Real Farm Premium Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gnz.jpg"
+    },
+    "PPSA23372": {
+        "name": "Reanimal",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc21i.jpg"
+    },
+    "PPSA05347": {
+        "name": "Record of Lodoss War Deedlit in Wonder Labyrinth",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4as3.jpg"
+    },
+    "PPSA30528": {
+        "name": "Red Dead Redemption",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8y6p.jpg"
+    },
+    "PPSA99078": {
+        "name": "Red Dead Redemption Remaster",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lcv.jpg"
+    },
+    "PPSA16509": {
+        "name": "Red Matter",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Red-Matter-PS5.jpg"
+    },
+    "PPSA16029": {
+        "name": "Redemption Reapers",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s64.jpg"
+    },
+    "PPSA05849": {
+        "name": "Redout 2 Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Redout_2_DE.avif"
+    },
+    "PPSA06693": {
+        "name": "Remnant 2 Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lnp.jpg"
+    },
+    "PPSA04288": {
+        "name": "Resident Evil 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vz0.jpg"
+    },
+    "PPSA03952": {
+        "name": "Resident Evil 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22l7.jpg"
+    },
+    "PPSA07411": {
+        "name": "Resident Evil 4 Gold Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobsxl.jpg"
+    },
+    "PPSA04404": {
+        "name": "Resident Evil 7 Biohazard Gold Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9fad.jpg"
+    },
+    "PPSA30803": {
+        "name": "Resident Evil Requiem",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.jpg"
+    },
+    "PPSA31246": {
+        "name": "Resident Evil Requiem Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.jpg"
+    },
+    "PPSA01556": {
+        "name": "Resident Evil Village Gold Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5qwq.jpg"
+    },
+    "PPSA01859": {
+        "name": "Resident Evil Village Maiden Demo",
+        "image": "https://www.superpsx.com/wp-content/uploads/2025/02/Resident-Evil-Village-Maiden-Demo-PS5.png"
+    },
+    "PPSA30601": {
+        "name": "Resonance A Plague Tale Legacy",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/1-vds-1-1.jpg"
+    },
+    "PPSA01285": {
+        "name": "Returnal",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wc1.jpg"
+    },
+    "PPSA20154": {
+        "name": "Revenge of The Savage Planet",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qak.jpg"
+    },
+    "PPSA22607": {
+        "name": "REYNATIS",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7t22.jpg"
+    },
+    "PPSA20723": {
+        "name": "REYNATIS Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7t22.jpg"
+    },
+    "PPSA09165": {
+        "name": "Rez Infinite",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Rez_Infinite.avif"
+    },
+    "PPSA16960": {
+        "name": "Richman 11",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Richman-11-PS5.jpg"
+    },
+    "PPSA01599": {
+        "name": "RIDE 4",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27l0.jpg"
+    },
+    "PPSA15190": {
+        "name": "RIDE 5",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6e0o.jpg"
+    },
+    "PPSA01374": {
+        "name": "Riders Republic",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabgv.jpg"
+    },
+    "PPSA02716": {
+        "name": "RiMS Racing",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ysr.jpg"
+    },
+    "PPSA04539": {
+        "name": "Rise of The Ronin",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Rise_of_The_Ronin.jpg"
+    },
+    "PPSA04540": {
+        "name": "Rise of the Ronin",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co59v0.jpg"
+    },
+    "PPSA06199": {
+        "name": "Road Maintenance Simulator",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co667n.jpg"
+    },
+    "PPSA07286": {
+        "name": "Road of Death",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Road_of_Death.avif"
+    },
+    "PPSA09845": {
+        "name": "Roadcraft",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9tyt.jpg"
+    },
+    "PPSA05060": {
+        "name": "RoboCop Rogue City",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ykm.jpg"
+    },
+    "PPSA28329": {
+        "name": "RoboCop Rogue City Unfinished Business Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i71.jpg"
+    },
+    "PPSA17330": {
+        "name": "RollerCoaster Tycoon Adventures Deluxe",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7d5o.jpg"
+    },
+    "PPSA14262": {
+        "name": "Romance of the Three Kingdoms 8 Remake",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Romance-of-the-Three-Kingdoms-8-Remake-PS5.jpg"
+    },
+    "PPSA16566": {
+        "name": "Romancing SaGa 2 Revenge of the Seven",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8d8f.jpg"
+    },
+    "PPSA34861": {
+        "name": "Romeo Is A Dead Man",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/16-vjr.jpg"
+    },
+    "PPSA16349": {
+        "name": "Rugby 25",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Rugby_25.avif"
+    },
+    "PPSA28052": {
+        "name": "Rugby League 26",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/3-vds.jpg"
+    },
+    "PPSA23396": {
+        "name": "Rugrats Adventure in Gameland",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t8x.jpg"
+    },
+    "PPSA21165": {
+        "name": "Rune Factory Guardians of Azuma",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Rune_Factory_Guardians_of_Azuma.avif"
+    },
+    "PPSA01289": {
+        "name": "Sackboy A Big Adventure",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4522.jpg"
+    },
+    "PPSA01288": {
+        "name": "Sackboy A Big Adventure",
+        "image": "https://www.superpsx.com/wp-content/uploads/2025/03/Sackboy-A-Big-Adventure-PS5.png"
+    },
+    "PPSA_00762": {
+        "name": "SaGa Frontier 2 Remastered",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/SaGa-Frontier-2-Remastered-PS4-PKG.jpg"
+    },
+    "PPSA10050": {
+        "name": "Saga of Sins",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co524b.jpg"
+    },
+    "PPSA02807": {
+        "name": "Saints Row",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pxl.jpg"
+    },
+    "PPSA02813": {
+        "name": "Saints Row Gold Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pxl.jpg"
+    },
+    "PPSA04132": {
+        "name": "Samurai Maiden Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Samurai_Maiden_Deluxe_Edition.avif"
+    },
+    "PPSA08574": {
+        "name": "SAND LAND",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7m35.jpg"
+    },
+    "PPSA07631": {
+        "name": "SAROS",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajye.jpg"
+    },
+    "PPSA02211": {
+        "name": "Scarlet Nexus",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b6l.jpg"
+    },
+    "PPSA08597": {
+        "name": "Scars Above",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co56q7.jpg"
+    },
+    "PPSA07850": {
+        "name": "Scorn",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4v5c.jpg"
+    },
+    "PPSA26092": {
+        "name": "Screamer",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaafo.jpg"
+    },
+    "PPSA05163": {
+        "name": "SD GUNDAM BATTLE ALLIANCE",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52s2.jpg"
+    },
+    "PPSA07587": {
+        "name": "Sea of Stars",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co215b.jpg"
+    },
+    "PPSA12500": {
+        "name": "Seeker: My Shadow",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5kwa.jpg"
+    },
+    "PPSA21085": {
+        "name": "Selfloss",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8a29.jpg"
+    },
+    "PPSA25991": {
+        "name": "Senuas Saga Hellblade 2",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/10-dws.jpg"
+    },
+    "PPSA06510": {
+        "name": "Session: Skate Sim",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8851.jpg"
+    },
+    "PPSA05106": {
+        "name": "Severed Steel",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coahch.jpg"
+    },
+    "PPSA20298": {
+        "name": "Shadow Labyrinth",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95ft.jpg"
+    },
+    "PPSA20437": {
+        "name": "Shadow of the Ninja: Reborn",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Shadow-of-the-Ninja-Reborn-PS5.jpg"
+    },
+    "PPSA07817": {
+        "name": "Shadow Warrior 3 Definitive Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67u3.jpg"
+    },
+    "PPSA17858": {
+        "name": "Shadows of The Damned Hella Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ygy.jpg"
+    },
+    "PPSA13742": {
+        "name": "Shame Legacy",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69ns.jpg"
+    },
+    "PPSA15716": {
+        "name": "Shin Megami Tensei V Vengeance",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7sv4.jpg"
+    },
+    "PPSA19461": {
+        "name": "SHINOBI Art of Vengeance",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e1j.jpg"
+    },
+    "PPSA04203": {
+        "name": "Sid Meiers Civilization VII Founders Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8po2.jpg"
+    },
+    "PPSA05132": {
+        "name": "Sifu",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4h5s.jpg"
+    },
+    "PPSA03001": {
+        "name": "Sifu",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4h5s.jpg"
+    },
+    "PPSA08709": {
+        "name": "Silent Hill 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coavaf.jpg"
+    },
+    "PPSA21159": {
+        "name": "Silent Hill f",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wy4.jpg"
+    },
+    "PPSA10112": {
+        "name": "SILENT HILL The Short Message",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7p8y.jpg"
+    },
+    "PPSA33286": {
+        "name": "Silent Hill Townfall",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/3-vsv.jpg"
+    },
+    "PPSA03306": {
+        "name": "Silt",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Silt.avif"
+    },
+    "PPSA18716": {
+        "name": "Skautfold: Into the Fray",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9fh4.jpg"
+    },
+    "PPSA14196": {
+        "name": "Sker Ritual",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p5v.jpg"
+    },
+    "PPSA15537": {
+        "name": "Skull Island Rise of Kong",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70sr.jpg"
+    },
+    "PPSA04962": {
+        "name": "Skydance’s BEHEMOTH",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8cac.jpg"
+    },
+    "PPSA13899": {
+        "name": "Slave Zero X",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p1m.jpg"
+    },
+    "PPSA13898": {
+        "name": "Slave Zero X",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p1m.jpg"
+    },
+    "PPSA24423": {
+        "name": "Slay the Princess: The Pristine Cut",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/07/Slay-the-Princess-The-Pristine-Cut-PS5.jpg"
+    },
+    "PPSA20164": {
+        "name": "Slitterhead",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4a7.jpg"
+    },
+    "PPSA17372": {
+        "name": "Smalland Survive The Wilds",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ait.jpg"
+    },
+    "PPSA14050": {
+        "name": "Smurfs Kart",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ggj.jpg"
+    },
+    "PPSA01685": {
+        "name": "Sniper Elite 5",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ehj.jpg"
+    },
+    "PPSA17232": {
+        "name": "Sniper Elite Resistance",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9brt.jpg"
+    },
+    "PPSA03131": {
+        "name": "Sniper Ghost Warrior Contracts 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nuh.jpg"
+    },
+    "PPSA03130": {
+        "name": "Sniper Ghost Warrior Contracts 2",
+        "image": "https://1.bp.blogspot.com/-5_JRozZAR80/ZZ4K6wfW-gI/AAAAAAAAENE/vLnV8oa2z9oXf1uWfjKYtzMj6y859LnOQCNcBGAsYHQ/s0/2.jpg"
+    },
+    "PPSA28795": {
+        "name": "Snoopy and The Great Mystery Club Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Snoopy_and_The_Great_Mystery_Club_DE.avif"
+    },
+    "PPSA04930": {
+        "name": "SnowRunner",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazp.jpg"
+    },
+    "PPSA14511": {
+        "name": "Song in The Smoke Rekindled",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ckz.jpg"
+    },
+    "PPSA03831": {
+        "name": "Sonic Frontiers",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p52.jpg"
+    },
+    "PPSA05324": {
+        "name": "Sonic Origins Plus",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6oez.jpg"
+    },
+    "PPSA08804": {
+        "name": "Sonic Racing CrossWorlds Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e16.jpg"
+    },
+    "PPSA06888": {
+        "name": "Sonic Superstars",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbw4.jpg"
+    },
+    "PPSA17597": {
+        "name": "Sonic X Shadow Generations Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8byo.jpg"
+    },
+    "PPSA03743": {
+        "name": "Soul Hackers 2",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/07/Soul-Hackers-2-PS5.jpg"
+    },
+    "PPSA03363": {
+        "name": "Soul Hackers 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hzh.jpg"
+    },
+    "PPSA03744": {
+        "name": "Soul Hackers 2 Premium Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52z6.jpg"
+    },
+    "PPSA03937": {
+        "name": "Soulstice",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39sa.jpg"
+    },
+    "PPSA29642": {
+        "name": "South of Midnight",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/15-mdc.jpg"
+    },
+    "PPSA15572": {
+        "name": "SOUTH PARK: SNOW DAY!",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7zze.jpg"
+    },
+    "PPSA17337": {
+        "name": "Space Adventure Cobra The Awakening Gold Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Space_Adventure_Cobra_The_Awakening_GE.avif"
+    },
+    "PPSA02845": {
+        "name": "Spacebase Startopia",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rpe.jpg"
+    },
+    "PPSA02846": {
+        "name": "Spacebase Startopia Extended Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rpe.jpg"
+    },
+    "PPSA17231": {
+        "name": "SpellForce Conquest of Eo",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/SpellForce_Conquest_of_Eo.avif"
+    },
+    "PPSA13934": {
+        "name": "Spirit of The Island",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/4-vfd.jpg"
+    },
+    "PPSA28617": {
+        "name": "Spirit of The North 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7abv.jpg"
+    },
+    "PPSA02306": {
+        "name": "Spirit of The North Enhanced Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kwj.jpg"
+    },
+    "PPSA08560": {
+        "name": "Split Fiction",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95gf.jpg"
+    },
+    "PPSA26893": {
+        "name": "SpongeBob SquarePants Titans of The Tide Ghostly Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/SpongeBob_SquarePants_Titans_of_The_Tide.jpg"
+    },
+    "PPSA15209": {
+        "name": "SPY X ANYA Operation Memories Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/SPYXANYA_Operation_Memories.jpg"
+    },
+    "PPSA15212": {
+        "name": "SPY X ANYA Operation Memories Deluxe Edition",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/07/2-rrd.jpg"
+    },
+    "PPSA22102": {
+        "name": "Squirrel With A Gun",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coal97.jpg"
+    },
+    "PPSA28336": {
+        "name": "STALKER 2: Heart of Chornobyl",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pxn.jpg"
+    },
+    "PPSA21732": {
+        "name": "STALKER Call of Prypiat Enhanced Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wr1.jpg"
+    },
+    "PPSA21733": {
+        "name": "STALKER Clear Sky Enhanced Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wr2.jpg"
+    },
+    "PPSA21734": {
+        "name": "STALKER Shadow of Chornobyl Enhanced Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/STALKER_Shadow_of_Chornobyl.avif"
+    },
+    "PPSA06262": {
+        "name": "Star Ocean The Divine Force",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co45km.jpg"
+    },
+    "PPSA13715": {
+        "name": "STAR OCEAN THE SECOND STORY R",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/STAR_OCEAN_THE_SECOND_STORY_R.jpg"
+    },
+    "PPSA18037": {
+        "name": "Star Trek Resurgence",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6g0l.jpg"
+    },
+    "PPSA07565": {
+        "name": "Star Trek: Prodigy Supernova",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5375.jpg"
+    },
+    "PPSA19728": {
+        "name": "Star Wars Dark Forces Remaster",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6zck.jpg"
+    },
+    "PPSA02199": {
+        "name": "Star Wars Jedi Fallen Order",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbi.jpg"
+    },
+    "PPSA07783": {
+        "name": "Star Wars Jedi Survivor Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5uzk.jpg"
+    },
+    "PPSA02198": {
+        "name": "Star Wars Jedi: Fallen Order",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbi.jpg"
+    },
+    "PPSA08260": {
+        "name": "Star Wars Outlaws Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9nh7.jpg"
+    },
+    "PPSA06883": {
+        "name": "Star Wars Tales from the Galaxys Edge",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2p8e.jpg"
+    },
+    "PPSA18054": {
+        "name": "Star Wars Zero Company",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/6-vds.jpg"
+    },
+    "PPSA24884": {
+        "name": "Starfield",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vv.jpg"
+    },
+    "PPSA28601": {
+        "name": "Steel Seed Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9q1l.jpg"
+    },
+    "PPSA05063": {
+        "name": "Steelrising",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8yz2.jpg"
+    },
+    "PPSA13197": {
+        "name": "Stellar Blade",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s0t.jpg"
+    },
+    "PPSA13195": {
+        "name": "Stellar Blade Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s0t.jpg"
+    },
+    "PPSA07905": {
+        "name": "Still Wakes The Deep",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dbd.jpg"
+    },
+    "PPSA07906": {
+        "name": "Still Wakes the Deep The Complete Collection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8dbd.jpg"
+    },
+    "PPSA11541": {
+        "name": "STORY OF SEASONS A Wonderful Life",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5adq.jpg"
+    },
+    "PPSA13506": {
+        "name": "STORY OF SEASONS: A Wonderful Life",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5adq.jpg"
+    },
+    "PPSA03233": {
+        "name": "Stranger of Paradise Final Fantasy Origin Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobp48.jpg"
+    },
+    "PPSA02100": {
+        "name": "Stray",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tt2.jpg"
+    },
+    "PPSA02632": {
+        "name": "Street Fighter 6",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wxo.jpg"
+    },
+    "PPSA02633": {
+        "name": "Street Fighter 6 Years 1-3 Fighters Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Street_Fighter_6_1_3_FE.jpg"
+    },
+    "PPSA02275": {
+        "name": "Street Outlaws 2 Winner Takes All",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ipb.jpg"
+    },
+    "PPSA10240": {
+        "name": "Stroke The Snake",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Stroke_The_Snake.avif"
+    },
+    "PPSA28835": {
+        "name": "Styx Blades of Greed",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9vo.jpg"
+    },
+    "PPSA02453": {
+        "name": "Subnautica",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa938.jpg"
+    },
+    "PPSA02457": {
+        "name": "Subnautica Below Zero",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39ve.jpg"
+    },
+    "PPSA02456": {
+        "name": "Subnautica: Below Zero",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39ve.jpg"
+    },
+    "PPSA02182": {
+        "name": "Suicide Squad Kill The Justice League",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co40fu.jpg"
+    },
+    "PPSA03416": {
+        "name": "Summer Sports Games 4K Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3x7p.jpg"
+    },
+    "PPSA07191": {
+        "name": "Super Bomberman R 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4x7j.jpg"
+    },
+    "PPSA07190": {
+        "name": "Super Bomberman R 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4x7j.jpg"
+    },
+    "PPSA05986": {
+        "name": "Super Crazy Rhythm Castle",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co77v6.jpg"
+    },
+    "PPSA01668": {
+        "name": "Super Monkey Ball Banana Mania",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaeop.jpg"
+    },
+    "PPSA25217": {
+        "name": "Super Robot Wars Y",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/1-rde-1.jpg"
+    },
+    "PPSA03491": {
+        "name": "Super Sami Roll",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co46ut.jpg"
+    },
+    "PPSA07211": {
+        "name": "Super Woden GP",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co42qc.jpg"
+    },
+    "PPSA06084": {
+        "name": "Superliminal",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uqz.jpg"
+    },
+    "PPSA06568": {
+        "name": "Sword Art Online Fractured Daydream",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8qt6.jpg"
+    },
+    "PPSA06958": {
+        "name": "Sword Art Online Last Recollection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eqk.jpg"
+    },
+    "PPSA30140": {
+        "name": "Syberia Remastered",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Syberia_Remastered.avif"
+    },
+    "PPSA02777": {
+        "name": "Syberia The World Before",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p76.jpg"
+    },
+    "PPSA12507": {
+        "name": "Synapse",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Synapse-PS5.jpg"
+    },
+    "PPSA06323": {
+        "name": "Syphon Filter",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4wky.jpg"
+    },
+    "PPSA06695": {
+        "name": "Syphon Filter 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9443.jpg"
+    },
+    "PPSA09509": {
+        "name": "System of Souls",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4xtp.jpg"
+    },
+    "PPSA06389": {
+        "name": "System Shock",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ik8.jpg"
+    },
+    "PPSA03644": {
+        "name": "t Campus",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co31nr.jpg"
+    },
+    "PPSA03841": {
+        "name": "Tactics Ogre Reborn",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co520l.jpg"
+    },
+    "PPSA03839": {
+        "name": "Tactics Ogre: Reborn",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co520l.jpg"
+    },
+    "PPSA03840": {
+        "name": "Tactics Ogre: Reborn",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co520l.jpg"
+    },
+    "PPSA24083": {
+        "name": "Taiko no Tatsujin Donderful Festival Demo",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/01/2-6.jpg"
+    },
+    "PPSA16441": {
+        "name": "Taiko no Tatsujin Rhythm Festival",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8sq0.jpg"
+    },
+    "PPSA03999": {
+        "name": "Tails of Iron",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6pae.jpg"
+    },
+    "PPSA19411": {
+        "name": "Tainted Grail The Fall of Avalon",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65pk.jpg"
+    },
+    "PPSA02745": {
+        "name": "Tales of Arise",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ls2.jpg"
+    },
+    "PPSA22826": {
+        "name": "Tales of Berseria Remastered",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Tales-of-Berseria-Remastered-PS5.jpg"
+    },
+    "PPSA19990": {
+        "name": "Tales of Graces F Remastered",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tales_of_Graces_F_Remastered.avif"
+    },
+    "PPSA19989": {
+        "name": "Tales of Graces f Remastered",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/07/Tales-of-Graces-f-Remastered-PS5.jpg"
+    },
+    "PPSA16951": {
+        "name": "Tales of Xillia Remastered",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tales_of_Xillia_Remastered.avif"
+    },
+    "PPSA08390": {
+        "name": "TAPE Unveil The Memories",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4lqs.jpg"
+    },
+    "PPSA30279": {
+        "name": "Taxi Chaos 2",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Taxi_Chaos_2.avif"
+    },
+    "PPSA14176": {
+        "name": "Taxi Life: A City Driving Simulator",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uef.jpg"
+    },
+    "PPSA04892": {
+        "name": "Tchia Oléti Edition",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/1-css.jpg"
+    },
+    "PPSA15246": {
+        "name": "Teardown",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7avn.jpg"
+    },
+    "PPSA18571": {
+        "name": "Teenage Mutant Ninja Turtles Arcade Wrath of The Mutants",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co85fn.jpg"
+    },
+    "PPSA17246": {
+        "name": "Teenage Mutant Ninja Turtles Mutants Unleashed",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8yl5.jpg"
+    },
+    "PPSA17245": {
+        "name": "Teenage Mutant Ninja Turtles Mutants Unleashed Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8yl5.jpg"
+    },
+    "PPSA25582": {
+        "name": "Teenage Mutant Ninja Turtles Splintered Fate",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6zbi.jpg"
+    },
+    "PPSA04489": {
+        "name": "Teenage Mutant Ninja Turtles The Cowabunga Collection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5qhz.jpg"
+    },
+    "PPSA10595": {
+        "name": "TEKKEN 8",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7lbb.jpg"
+    },
+    "PPSA15911": {
+        "name": "Tennis On-Court",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Tennis-On-Court-PS5.jpg"
+    },
+    "PPSA25872": {
+        "name": "Terminator 2D NO FATE",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s6r.jpg"
+    },
+    "PPSA02474": {
+        "name": "Terminator Resistance Enhanced",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53ns.jpg"
+    },
+    "PPSA07923": {
+        "name": "Tetris Effect Connected",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7kus.jpg"
+    },
+    "PPSA25646": {
+        "name": "Tetris Forever",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tetris_Forever.avif"
+    },
+    "PPSA21112": {
+        "name": "TEVI",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6luj.jpg"
+    },
+    "PPSA_00918": {
+        "name": "Thank Goodness You’re Here!",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Thank-Goodness-You-are-Here-PS4-PKG-.jpg"
+    },
+    "PPSA32310": {
+        "name": "The Adventures of Elliot The Millennium Tales",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/1-fes.jpg"
+    },
+    "PPSA16033": {
+        "name": "The Alters",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Alters.avif"
+    },
+    "PPSA02593": {
+        "name": "The Ascent",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25o1.jpg"
+    },
+    "PPSA18697": {
+        "name": "The Bearer & The Last Flame",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobw1b.jpg"
+    },
+    "PPSA03311": {
+        "name": "The Binding of Isaac Repentance",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5uz8.jpg"
+    },
+    "PPSA28000": {
+        "name": "The Blood of Dawnwalker",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/2-tes.jpg"
+    },
+    "PPSA22636": {
+        "name": "The Bridge Curse 2 The Extrication",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co71ql.jpg"
+    },
+    "PPSA11039": {
+        "name": "The Caligula Effect 2 Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4wid.jpg"
+    },
+    "PPSA09384": {
+        "name": "The Caligula Effect Overdose Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1s3d.jpg"
+    },
+    "PPSA03351": {
+        "name": "The Callisto Protocol",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ymo.jpg"
+    },
+    "PPSA03352": {
+        "name": "The Callisto Protocol",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ymo.jpg"
+    },
+    "PPSA16163": {
+        "name": "The Casting of Frank Stone",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Casting_of_Frank_Stone.avif"
+    },
+    "PPSA03618": {
+        "name": "The Chant",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4rff.jpg"
+    },
+    "PPSA09149": {
+        "name": "The Crown of Wu",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p0a.jpg"
+    },
+    "PPSA02594": {
+        "name": "The Dark Pictures Anthology House of Ashes",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coamyk.jpg"
+    },
+    "PPSA05921": {
+        "name": "The Dark Pictures Anthology The Devil in Me",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coamte.jpg"
+    },
+    "PPSA05881": {
+        "name": "The DioField Chronicle",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4kan.jpg"
+    },
+    "PPSA04312": {
+        "name": "The Dungeon of Naheulbeuk: the Amulet of Chaos",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co29ok.jpg"
+    },
+    "PPSA21203": {
+        "name": "The Elder Scrolls IV Oblivion Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e1e.jpg"
+    },
+    "PPSA03747": {
+        "name": "The Elder Scrolls V Skyrim Special Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vco.jpg"
+    },
+    "PPSA06369": {
+        "name": "The Eternal Cylinder",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1omg.jpg"
+    },
+    "PPSA20955": {
+        "name": "The Exit 9",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Exit_9.jpg"
+    },
+    "PPSA20447": {
+        "name": "The First Berserker Khazan",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8roc.jpg"
+    },
+    "PPSA03026": {
+        "name": "The Forgotten City",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Forgotten_City.webp"
+    },
+    "PPSA24203": {
+        "name": "The House of The Dead 2 Remake",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99gp.jpg"
+    },
+    "PPSA04650": {
+        "name": "The House of the Dead Remake",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49hm.jpg"
+    },
+    "PPSA04649": {
+        "name": "The House of the Dead Remake",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49hm.jpg"
+    },
+    "PPSA06426": {
+        "name": "The Invincible",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co61ol.jpg"
+    },
+    "PPSA21258": {
+        "name": "The Karate Kid Street Rumble",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8j74.jpg"
+    },
+    "PPSA02213": {
+        "name": "The King of Fighters XV",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6gt4.jpg"
+    },
+    "PPSA09347": {
+        "name": "The Last Faith",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co76ub.jpg"
+    },
+    "PPSA03396": {
+        "name": "The Last of Us Part I Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1gq.jpg"
+    },
+    "PPSA10662": {
+        "name": "The Last of Us Part II Remastered",
+        "image": "https://www.superpsx.com/wp-content/uploads/2025/09/The-Last-of-Us-Part-II-Remastered-PS5.webp"
+    },
+    "PPSA15508": {
+        "name": "The Last of Us Part II Remastered Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1gr.jpg"
+    },
+    "PPSA04460": {
+        "name": "The Last Stand Aftermath",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2s5g.jpg"
+    },
+    "PPSA12562": {
+        "name": "The Light Brigade",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66z5.jpg"
+    },
+    "PPSA06367": {
+        "name": "The Lord of The Rings Gollum Precious Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4sdl.jpg"
+    },
+    "PPSA16617": {
+        "name": "The Lord of The Rings Return to Moria",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7a7g.jpg"
+    },
+    "PPSA05754": {
+        "name": "The Matrix Awakens An Unreal Engine 5 Experience",
+        "image": "https://1.bp.blogspot.com/-NcDNWv_wV6U/ZZ9Q0Mxe3pI/AAAAAAAAEOI/kdYlF2oRYMs3BI2kL2SY2RQDqYGPbnaAgCNcBGAsYHQ/s0/2.jpg"
+    },
+    "PPSA03718": {
+        "name": "The Medium",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2z0q.jpg"
+    },
+    "PPSA03717": {
+        "name": "The Medium",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2z0q.jpg"
+    },
+    "PPSA24643": {
+        "name": "The Messenger",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1th.jpg"
+    },
+    "PPSA24651": {
+        "name": "The Messenger",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1th.jpg"
+    },
+    "PPSA24864": {
+        "name": "The Midnight Walk",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ur3.jpg"
+    },
+    "PPSA_00963": {
+        "name": "The Mortuary Assistant",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/THE-MORTUARY-ASSISTANT-PS4-PKG-1.jpg"
+    },
+    "PPSA19244": {
+        "name": "The Oregon Trail",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5nt9.jpg"
+    },
+    "PPSA19266": {
+        "name": "The Oregon Trail",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5nt9.jpg"
+    },
+    "PPSA24588": {
+        "name": "The Outer Worlds 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xx4.jpg"
+    },
+    "PPSA07148": {
+        "name": "The Outer Worlds Spacers Choice Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68wu.jpg"
+    },
+    "PPSA01826": {
+        "name": "The Pathless",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hm5.jpg"
+    },
+    "PPSA01825": {
+        "name": "The Pathless",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hm5.jpg"
+    },
+    "PPSA01916": {
+        "name": "The Persistence Enhanced",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4a2v.jpg"
+    },
+    "PPSA01913": {
+        "name": "The Persistence Enhanced Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Persistence_Enhanced.webp"
+    },
+    "PPSA15319": {
+        "name": "The Plucky Squire",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z44.jpg"
+    },
+    "PPSA17732": {
+        "name": "The Precinct",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9la1.jpg"
+    },
+    "PPSA05813": {
+        "name": "The Quarry",
+        "image": "https://dlpsgame.com/wp-content/uploads/2025/03/4-2.jpg"
+    },
+    "PPSA06225": {
+        "name": "The Quarry Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4kl4.jpg"
+    },
+    "PPSA03753": {
+        "name": "The Riftbreaker",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1jna.jpg"
+    },
+    "PPSA16716": {
+        "name": "The Smurfs 2 The Prisoner of the Green Stone",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7cc1.jpg"
+    },
+    "PPSA21607": {
+        "name": "The Smurfs Dreams Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Smurfs_Dreams_Deluxe_Edition.jpg"
+    },
+    "PPSA02876": {
+        "name": "The Smurfs: Mission Vileaf",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3xwf.jpg"
+    },
+    "PPSA12651": {
+        "name": "The Tale of Onogoro",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ug0.jpg"
+    },
+    "PPSA05887": {
+        "name": "The Talos Principle 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jbl.jpg"
+    },
+    "PPSA05888": {
+        "name": "The Talos Principle 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jbl.jpg"
+    },
+    "PPSA24381": {
+        "name": "The Thing Remastered",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Thing_Remastered.jpg"
+    },
+    "PPSA15731": {
+        "name": "The Walking Dead Destinies",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yli.jpg"
+    },
+    "PPSA07680": {
+        "name": "The Walking Dead Saints & Sinners Chapter 2 Retribution",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2p8e.jpg"
+    },
+    "PPSA07681": {
+        "name": "The Walking Dead Saints and Sinners Chapter 2 Retribution",
+        "image": "https://dlpsgame.com/wp-content/uploads/2025/10/1.png"
+    },
+    "PPSA03977": {
+        "name": "The Witcher 3 Wild Hunt Complete Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5uct.jpg"
+    },
+    "PPSA05213": {
+        "name": "Thymesia",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2w5c.jpg"
+    },
+    "PPSA05214": {
+        "name": "Thymesia",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2w5c.jpg"
+    },
+    "PPSA29986": {
+        "name": "Tides of Tomorrow",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x25.jpg"
+    },
+    "PPSA14453": {
+        "name": "TIEBREAK Official game of the ATP and WTA Ace Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TIEBREAK_Official_game_of_the_ATP_and_WTA.avif"
+    },
+    "PPSA13222": {
+        "name": "Tiger Blade",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72m0.jpg"
+    },
+    "PPSA13927": {
+        "name": "Tintin Reporter Cigars of The Pharaoh",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6zlm.jpg"
+    },
+    "PPSA01492": {
+        "name": "Tiny Tina's Wonderlands",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co390m.jpg"
+    },
+    "PPSA32236": {
+        "name": "Tokyo Xtreme Racer",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobnn7.jpg"
+    },
+    "PPSA16901": {
+        "name": "Tomb Raider I-III Remastered",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xte.jpg"
+    },
+    "PPSA18154": {
+        "name": "Tomb Raider IV–VI Remastered",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Tomb-Raider-IV–VI-Remastered-PS5.jpg"
+    },
+    "PPSA29866": {
+        "name": "Tomba 2 The Evil Swine Return Special Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazlq.jpg"
+    },
+    "PPSA21382": {
+        "name": "Tomba Special Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92no.jpg"
+    },
+    "PPSA02177": {
+        "name": "Tony Hawks Pro Skater 1 + 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25u7.jpg"
+    },
+    "PPSA18010": {
+        "name": "Tony Hawks Pro Skater 3 + 4",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hxo.jpg"
+    },
+    "PPSA02176": {
+        "name": "Tony Hawk’s Pro Skater 1 + 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25u7.jpg"
+    },
+    "PPSA06899": {
+        "name": "TopSpin 2K25",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co84fw.jpg"
+    },
+    "PPSA02526": {
+        "name": "Tormented Souls",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vhs.jpg"
+    },
+    "PPSA02525": {
+        "name": "Tormented Souls",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vhs.jpg"
+    },
+    "PPSA17322": {
+        "name": "Tormented Souls 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y0u.jpg"
+    },
+    "PPSA32393": {
+        "name": "Total Chaos",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coave3.jpg"
+    },
+    "PPSA_01008": {
+        "name": "Totally Accurate Battle Simulator",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Totally-Accurate-Battle-Simulator-PS4-PKG.jpg"
+    },
+    "PPSA28855": {
+        "name": "Totally Reliable Delivery Service",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Totally_Reliable_Delivery_Service.webp"
+    },
+    "PPSA14198": {
+        "name": "Tour de France 2023",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tour_de_France_2023.jpg"
+    },
+    "PPSA20114": {
+        "name": "Tour de France 2024",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co884z.jpg"
+    },
+    "PPSA26576": {
+        "name": "Tour de France 2025",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9kqi.jpg"
+    },
+    "PPSA04433": {
+        "name": "Tourist Bus Simulator",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27bx.jpg"
+    },
+    "PPSA25936": {
+        "name": "Towa and The Guardians of The Sacred Tree",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Towa-and-The-Guardians-of-The-Sacred-Tree-PS5.jpg"
+    },
+    "PPSA28465": {
+        "name": "Trails in The Sky 1st Chapter",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Trails_in_The_Sky_1st_Chapter.avif"
+    },
+    "PPSA03851": {
+        "name": "Train Life: A Railway Simulator",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ivo.jpg"
+    },
+    "PPSA03944": {
+        "name": "Train Sim World 2: Rush Hour Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8hjr.jpg"
+    },
+    "PPSA07619": {
+        "name": "Train Sim World 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55d6.jpg"
+    },
+    "PPSA07618": {
+        "name": "Train Sim World 3",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55d6.jpg"
+    },
+    "PPSA15730": {
+        "name": "Train Sim World 4",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Train-Sim-World-4-PS5.jpg"
+    },
+    "PPSA23364": {
+        "name": "Train Sim World 5",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/08/1-cdx-1.jpg"
+    },
+    "PPSA29953": {
+        "name": "Train Sim World 6",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/Train-Sim-World-6-PS5.jpg"
+    },
+    "PPSA16738": {
+        "name": "Transformer Galactic Trails",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lmz.jpg"
+    },
+    "PPSA14264": {
+        "name": "Transformers Earthspark Expedition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co786b.jpg"
+    },
+    "PPSA04906": {
+        "name": "Treasures of The Aegean",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2znm.jpg"
+    },
+    "PPSA02629": {
+        "name": "Trek To Yomi",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p88.jpg"
+    },
+    "PPSA15350": {
+        "name": "Trepang2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coar0k.jpg"
+    },
+    "PPSA15349": {
+        "name": "Trepang2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coar0k.jpg"
+    },
+    "PPSA26354": {
+        "name": "TRIANGLE STRATEGY",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TRIANGLE_STRATEGY.avif"
+    },
+    "PPSA06408": {
+        "name": "Trifox",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Trifox.avif"
+    },
+    "PPSA14275": {
+        "name": "Trine 5 A Clockwork Conspiracy",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6dpx.jpg"
+    },
+    "PPSA09740": {
+        "name": "Trinity Trigger",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/08/4-vfr.jpg"
+    },
+    "PPSA05683": {
+        "name": "Tropico 6 El Prez Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1idx.jpg"
+    },
+    "PPSA24558": {
+        "name": "Turok",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob4mb.jpg"
+    },
+    "PPSA24560": {
+        "name": "Turok 2 Seeds of Evil",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Turok_2_Seeds_of_Evil.avif"
+    },
+    "PPSA19936": {
+        "name": "Turok 3 Shadow of Oblivion",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7fpt.jpg"
+    },
+    "PPSA19769": {
+        "name": "Two Point Museum",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9t39.jpg"
+    },
+    "PPSA14376": {
+        "name": "UFO Robot Grendizer The Feast of The Wolves Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7c80.jpg"
+    },
+    "PPSA20798": {
+        "name": "Ufouria The Saga 2",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/07/Ufouria-The-Saga-2-PS5.jpg"
+    },
+    "PPSA03274": {
+        "name": "Unbound Worlds Apart",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1k9c.jpg"
+    },
+    "PPSA05684": {
+        "name": "Uncharted Legacy of Thieves Collection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3swl.jpg"
+    },
+    "PPSA05389": {
+        "name": "Uncharted Legacy of Thieves Collection",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3swl.jpg"
+    },
+    "PPSA24473": {
+        "name": "Undefeated",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdga.jpg"
+    },
+    "PPSA08056": {
+        "name": "Under The Waves",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co545p.jpg"
+    },
+    "PPSA21915": {
+        "name": "Undisputed",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8jkr.jpg"
+    },
+    "PPSA21914": {
+        "name": "Undisputed Championship Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Undisputed_Championship_Edition.avif"
+    },
+    "PPSA09894": {
+        "name": "Unicorn Overlord",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/09/Unicorn-Overlord-PS5.jpg"
+    },
+    "PPSA17841": {
+        "name": "Unknown 9 Awakening Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bh9.jpg"
+    },
+    "PPSA07117": {
+        "name": "Unpacking",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1t45.jpg"
+    },
+    "PPSA15421": {
+        "name": "Until Dawn",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qxt.jpg"
+    },
+    "PPSA07274": {
+        "name": "Valkyrie Elysium",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4k5c.jpg"
+    },
+    "PPSA07275": {
+        "name": "Valkyrie Elysium",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4k5c.jpg"
+    },
+    "PPSA09075": {
+        "name": "Valthirian Arc Hero School Story 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co46kn.jpg"
+    },
+    "PPSA15186": {
+        "name": "Vampire The Masquerade Bloodlines 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab6r.jpg"
+    },
+    "PPSA16432": {
+        "name": "Vampire The Masquerade Justice",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6knh.jpg"
+    },
+    "PPSA07302": {
+        "name": "Vampire: The Masquerade – Swansong",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4oqa.jpg"
+    },
+    "PPSA28628": {
+        "name": "VARLET",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9q4q.jpg"
+    },
+    "PPSA25411": {
+        "name": "Venus Vacation PRISM DEAD OR ALIVE Xtreme",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/5-dsw.jpg"
+    },
+    "PPSA18100": {
+        "name": "Vertigo 2",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z4n.jpg"
+    },
+    "PPSA10249": {
+        "name": "VIEWFINDER",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaev1.jpg"
+    },
+    "PPSA04697": {
+        "name": "Visage",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1h7d.jpg"
+    },
+    "PPSA16096": {
+        "name": "Visions of Mana",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7na.jpg"
+    },
+    "PPSA03061": {
+        "name": "Void tRrLM Void Terrarium",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2tx0.jpg"
+    },
+    "PPSA13557": {
+        "name": "VR Skater",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zh1.jpg"
+    },
+    "PPSA05621": {
+        "name": "Wanted: Dead",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5jfb.jpg"
+    },
+    "PPSA06711": {
+        "name": "War Mongrels",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2t6x.jpg"
+    },
+    "PPSA04451": {
+        "name": "Warhammer 40,000 Space Marine 2",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/06/Warhammer-40000-Space-Marine-2-PS5.jpg"
+    },
+    "PPSA04452": {
+        "name": "Warhammer 40000 Space Marine 2 Gold Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Warhammer_40000_Space_Marine_2_GE.webp"
+    },
+    "PPSA06927": {
+        "name": "Warhammer Age of Sigmar Realms of Ruin Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jlg.jpg"
+    },
+    "PPSA01500": {
+        "name": "Watch Dogs Legion",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2oyq.jpg"
+    },
+    "PPSA01487": {
+        "name": "Watch Dogs Legion",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2oyq.jpg"
+    },
+    "PPSA05732": {
+        "name": "Way of The Hunter",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7m6m.jpg"
+    },
+    "PPSA08950": {
+        "name": "We Love Katamari Reroll+ Royal Reverie",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6589.jpg"
+    },
+    "PPSA10887": {
+        "name": "Weird West Definitive Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6qx7.jpg"
+    },
+    "PPSA02113": {
+        "name": "Werewolf The Apocalypse Earthblood",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co259p.jpg"
+    },
+    "PPSA02114": {
+        "name": "Werewolf: The Apocalypse – Earthblood",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co259p.jpg"
+    },
+    "PPSA04933": {
+        "name": "Who Wants To Be A Millionaire New Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wi9.jpg"
+    },
+    "PPSA07837": {
+        "name": "WILD HEARTS",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/06/1-WILD-HEARTS-1.jpg"
+    },
+    "PPSA07836": {
+        "name": "WILD HEARTS Karakuri Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66d3.jpg"
+    },
+    "PPSA02608": {
+        "name": "Winter Sports Games 4K Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4iq8.jpg"
+    },
+    "PPSA22914": {
+        "name": "Witch Spring R",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Witch_Spring_R.avif"
+    },
+    "PPSA21297": {
+        "name": "Withering Rooms",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5bws.jpg"
+    },
+    "PPSA08772": {
+        "name": "Wo Long Fallen Dynasty",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4v34.jpg"
+    },
+    "PPSA07326": {
+        "name": "Wonder Boy The Dragons Trap",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z4q.jpg"
+    },
+    "PPSA05424": {
+        "name": "World War Z Aftermath",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39v5.jpg"
+    },
+    "PPSA20052": {
+        "name": "Worms Armageddon: Anniversary Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8rj6.jpg"
+    },
+    "PPSA03589": {
+        "name": "WRC 10 Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WRC_10_Deluxe_Edition_DE.avif"
+    },
+    "PPSA07580": {
+        "name": "WRC Generations",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4rp1.jpg"
+    },
+    "PPSA03309": {
+        "name": "Wreckfest Complete Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Wreckfest_Complete_Edition.jpg"
+    },
+    "PPSA09823": {
+        "name": "Wreckreation",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52tg.jpg"
+    },
+    "PPSA09518": {
+        "name": "WUCHANG Fallen Feathers Deluxe Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Wuchang_Fallen_Feathers_Deluxe_Edition.avif"
+    },
+    "PPSA09519": {
+        "name": "WUCHANG Fallen Feathers Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xif.jpg"
+    },
+    "PPSA03150": {
+        "name": "WWE 2K22 nWo 4-Life Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4den.jpg"
+    },
+    "PPSA08105": {
+        "name": "WWE 2K23",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co61ts.jpg"
+    },
+    "PPSA16306": {
+        "name": "WWE 2K24 Forty Years of WrestleMania Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nta.jpg"
+    },
+    "PPSA22695": {
+        "name": "WWE 2K25",
+        "image": "https://www.superpsx.com/wp-content/uploads/2026/08/WWE-2K25-PS5.jpg"
+    },
+    "PPSA22696": {
+        "name": "WWE 2K25 The Bloodline Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWE_2K25_The_Bloodline_Edition.avif"
+    },
+    "PPSA34299": {
+        "name": "WWE 2K26",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobebd.jpg"
+    },
+    "PPSA03555": {
+        "name": "WWI Isonzo Ultimate Edition",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWI_Isonzo_Ultimate_Edition.avif"
+    },
+    "PPSA05721": {
+        "name": "Wytchwood",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27gm.jpg"
+    },
+    "PPSA02774": {
+        "name": "XIII",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53sn.jpg"
+    },
+    "PPSA02775": {
+        "name": "XIII",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53sn.jpg"
+    },
+    "PPSA31327": {
+        "name": "Yakuza 0 Directors Cut",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co252x.jpg"
+    },
+    "PPSA31334": {
+        "name": "Yakuza Kiwami",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Yakuza_Kiwami.webp"
+    },
+    "PPSA31333": {
+        "name": "Yakuza Kiwami 2",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Yakuza_Kiwami_2.avif"
+    },
+    "PPSA30223": {
+        "name": "Yakuza Kiwami 3 and Dark Ties Deluxe Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobd0q.jpg"
+    },
+    "PPSA02384": {
+        "name": "Yakuza Like A Dragon",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2em9.jpg"
+    },
+    "PPSA02690": {
+        "name": "Yakuza Like a Dragon Hero Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ema.jpg"
+    },
+    "PPSA17697": {
+        "name": "Yatzi",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7c2e.jpg"
+    },
+    "PPSA03076": {
+        "name": "Yonder The Cloud Catcher Chronicles",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wvg.jpg"
+    },
+    "PPSA26097": {
+        "name": "Yooka Replaylee",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc722.jpg"
+    },
+    "PPSA32457": {
+        "name": "Ys X Proud Nordics Ultimate Edition",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmlx.jpg"
+    },
+    "PPSA22623": {
+        "name": "Zombie Cure Lab",
+        "image": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Zombie_Cure_Lab.avif"
+    },
+    "PPSA06509": {
+        "name": "Zorro The Chronicles",
+        "image": "https://dlpsgame.com/wp-content/uploads/2026/09/3-csz.jpg"
+    }
+}
